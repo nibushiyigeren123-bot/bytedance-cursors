@@ -1,0 +1,84 @@
+{
+  "version": "1.0.0",
+  "schemes": 10,
+  "native_setupapi_used": true,
+  "registry_and_Windows_destination_redirected_for_isolation": true,
+  "only_fixture_edit": "reserved DIRID 10 and its placeholders replaced by user DIRID 32768; all installation sections/files/roles unchanged",
+  "actual_Explorer_context_menu_not_automated": true,
+  "active_system_cursors_unchanged": true,
+  "roles_copied_and_registered": 170,
+  "no_executable_hooks": true,
+  "does_not_claim_runtime_size_changes": true,
+  "records": [
+    {
+      "inf": "安装_Seedream_32px.inf",
+      "sha256": "5f16312a87d0adde8d492c7dc748651aeaa97ef55f8dd1324b8193588fba5a4f",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Seedream AI 32px"
+    },
+    {
+      "inf": "安装_Seedream_48px.inf",
+      "sha256": "f8a412054fbb042265a1a5ae115dcc1ad029e2de0fe626a140ccc5372ff49127",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Seedream AI 48px"
+    },
+    {
+      "inf": "安装_Seedream_64px.inf",
+      "sha256": "47af0f9402f136453ee4f30b140d911fe76828998861ab4722e26cf83011d120",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Seedream AI 64px"
+    },
+    {
+      "inf": "安装_Seedream_128px.inf",
+      "sha256": "3bfd699e75f71b5a8aff9c53b0c98229da41cdee154cc6bbf8ce315313f84fff",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Seedream AI 128px"
+    },
+    {
+      "inf": "安装_Seedream_256px.inf",
+      "sha256": "ab6b68a73366b2e06fc656190e75ff1d8f981160aabd32c63a22ab44a558e63f",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Seedream AI 256px"
+    },
+    {
+      "inf": "安装_Doubao_32px.inf",
+      "sha256": "7f8a8cbbde7fe4d2d419674fc07711b0b88c81a953870abdcf8edc6f62060e32",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Doubao AI 32px"
+    },
+    {
+      "inf": "安装_Doubao_48px.inf",
+      "sha256": "e518ad6f67a2b40c77926cb09b1105f491a8171c6954693552ee05b76f721bed",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Doubao AI 48px"
+    },
+    {
+      "inf": "安装_Doubao_64px.inf",
+      "sha256": "6302f70e042b7d3b00375aba5b996225655230dae4d91378daa6be249a375de8",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Doubao AI 64px"
+    },
+    {
+      "inf": "安装_Doubao_128px.inf",
+      "sha256": "cbd6042347a692aed39dfb1670787cd8433964b2eaa55577d0b519fc0711bfaa",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Doubao AI 128px"
+    },
+    {
+      "inf": "安装_Doubao_256px.inf",
+      "sha256": "26d860bee893010f2913c175dc0a2ea28da4a809bcc1564fdb8bac23429b2481",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Doubao AI 256px"
+    }
+  ]
+}

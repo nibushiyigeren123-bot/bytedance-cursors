@@ -1,0 +1,14 @@
+{
+  "character": "doubao",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a12d0c-8375-79f0-ace9-afa1b234d5a3\\exec-1081a403-0d9c-4616-bf7b-1012041bb102.png",
+  "target": "E:\\cladue缓存\\AI全家动态指针_20261012\\characters\\doubao\\poses-v4.png",
+  "sha256": "c24647948a3c4b6f2b5250d75f15b3d7c3064005b72ca6fcfed9d4083d76479e",
+  "size": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "method": "built-in image_gen",
+  "seed": "not exposed by built-in tool",
+  "original_preserved": true
+}
