@@ -1,0 +1,276 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 66,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "Seedream / 豆包 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "seedream",
+      "display": "Seedream",
+      "seconds": 4,
+      "caption": "Seedream · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 7
+    },
+    {
+      "kind": "focus",
+      "character": "seedream",
+      "display": "Seedream",
+      "roles": [
+        "Arrow",
+        "Help",
+        "Crosshair"
+      ],
+      "seconds": 3,
+      "caption": "Seedream · 正常、帮助与精确选择",
+      "start": 7,
+      "end": 10
+    },
+    {
+      "kind": "focus",
+      "character": "seedream",
+      "display": "Seedream",
+      "roles": [
+        "AppStarting",
+        "Wait",
+        "IBeam"
+      ],
+      "seconds": 3,
+      "caption": "Seedream · 后台运行、忙碌与文本选择",
+      "start": 10,
+      "end": 13
+    },
+    {
+      "kind": "focus",
+      "character": "seedream",
+      "display": "Seedream",
+      "roles": [
+        "Hand",
+        "Person",
+        "NWPen"
+      ],
+      "seconds": 3,
+      "caption": "Seedream · 链接、人员与手写选择",
+      "start": 13,
+      "end": 16
+    },
+    {
+      "kind": "focus",
+      "character": "seedream",
+      "display": "Seedream",
+      "roles": [
+        "No",
+        "Pin",
+        "UpArrow"
+      ],
+      "seconds": 3,
+      "caption": "Seedream · 不可用、位置与候选选择",
+      "start": 16,
+      "end": 19
+    },
+    {
+      "kind": "focus",
+      "character": "seedream",
+      "display": "Seedream",
+      "roles": [
+        "SizeNS",
+        "SizeWE"
+      ],
+      "seconds": 3,
+      "caption": "Seedream · 垂直与水平调整",
+      "start": 19,
+      "end": 22
+    },
+    {
+      "kind": "focus",
+      "character": "seedream",
+      "display": "Seedream",
+      "roles": [
+        "SizeNWSE",
+        "SizeNESW",
+        "SizeAll"
+      ],
+      "seconds": 3,
+      "caption": "Seedream · 两种对角调整与移动",
+      "start": 22,
+      "end": 25
+    },
+    {
+      "kind": "sizes",
+      "character": "seedream",
+      "display": "Seedream",
+      "seconds": 5,
+      "caption": "Seedream · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "kind": "states",
+      "character": "doubao",
+      "display": "豆包",
+      "seconds": 4,
+      "caption": "豆包 · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 30,
+      "end": 34
+    },
+    {
+      "kind": "focus",
+      "character": "doubao",
+      "display": "豆包",
+      "roles": [
+        "Arrow",
+        "Help",
+        "Crosshair"
+      ],
+      "seconds": 3,
+      "caption": "豆包 · 正常、帮助与精确选择",
+      "start": 34,
+      "end": 37
+    },
+    {
+      "kind": "focus",
+      "character": "doubao",
+      "display": "豆包",
+      "roles": [
+        "AppStarting",
+        "Wait",
+        "IBeam"
+      ],
+      "seconds": 3,
+      "caption": "豆包 · 后台运行、忙碌与文本选择",
+      "start": 37,
+      "end": 40
+    },
+    {
+      "kind": "focus",
+      "character": "doubao",
+      "display": "豆包",
+      "roles": [
+        "Hand",
+        "Person",
+        "NWPen"
+      ],
+      "seconds": 3,
+      "caption": "豆包 · 链接、人员与手写选择",
+      "start": 40,
+      "end": 43
+    },
+    {
+      "kind": "focus",
+      "character": "doubao",
+      "display": "豆包",
+      "roles": [
+        "No",
+        "Pin",
+        "UpArrow"
+      ],
+      "seconds": 3,
+      "caption": "豆包 · 不可用、位置与候选选择",
+      "start": 43,
+      "end": 46
+    },
+    {
+      "kind": "focus",
+      "character": "doubao",
+      "display": "豆包",
+      "roles": [
+        "SizeNS",
+        "SizeWE"
+      ],
+      "seconds": 3,
+      "caption": "豆包 · 垂直与水平调整",
+      "start": 46,
+      "end": 49
+    },
+    {
+      "kind": "focus",
+      "character": "doubao",
+      "display": "豆包",
+      "roles": [
+        "SizeNWSE",
+        "SizeNESW",
+        "SizeAll"
+      ],
+      "seconds": 3,
+      "caption": "豆包 · 两种对角调整与移动",
+      "start": 49,
+      "end": 52
+    },
+    {
+      "kind": "sizes",
+      "character": "doubao",
+      "display": "豆包",
+      "seconds": 5,
+      "caption": "豆包 · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 52,
+      "end": 57
+    },
+    {
+      "kind": "install",
+      "seconds": 6,
+      "caption": "安装方法 · 完整解压 → 选择角色与尺寸 → 可选开启尺寸保持",
+      "start": 57,
+      "end": 63
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 非商业使用 · 仓库与下载地址见简介",
+      "start": 63,
+      "end": 66
+    }
+  ],
+  "profile": {
+    "repository": "bytedance-cursors",
+    "title": "Seedream / 豆包",
+    "namespace": "ByteDanceCursors",
+    "accent": "#809de1",
+    "version": "1.0.0",
+    "default_character": "seedream",
+    "characters": [
+      {
+        "id": "seedream",
+        "display": "Seedream",
+        "reference_page": 10
+      },
+      {
+        "id": "doubao",
+        "display": "Doubao",
+        "reference_page": null
+      }
+    ]
+  },
+  "palette": {
+    "repository": "bytedance-cursors",
+    "accent": "#2E9C97",
+    "ink": "#14282A",
+    "muted": "#6E8A88",
+    "bg_start": "#F1F8F7",
+    "bg_end": "#D5EBE8",
+    "title": "字节双角色光标库",
+    "subtitle": "Seedream 与 Doubao 同库",
+    "quote": "青碧与金色同框：一个抱着玩偶，一个踩着短靴。",
+    "characters": [
+      {
+        "id": "seedream",
+        "label": "Seedream",
+        "traits": "紫青发，抱着豆包玩偶"
+      },
+      {
+        "id": "doubao",
+        "label": "Doubao",
+        "traits": "短 bob 黑夹克黑裙，金胸针，短靴"
+      }
+    ]
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}
