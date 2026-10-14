@@ -1,0 +1,14 @@
+{
+  "character": "seedream",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a12d0c-8375-79f0-ace9-afa1b234d5a3\\exec-2e46973d-aa96-469b-bb15-da3cdab046a7.png",
+  "target": "E:\\cladue缓存\\AI全家动态指针_20261012\\characters\\seedream\\poses-v1.png",
+  "sha256": "17f00c8376ca7d91753970df678b1abaa4a7246f451036c1e6d74f9512da9835",
+  "size": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "method": "built-in image_gen",
+  "seed": "not exposed by built-in tool",
+  "original_preserved": true
+}

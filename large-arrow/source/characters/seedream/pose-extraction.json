@@ -1,0 +1,142 @@
+{
+  "source_sha256": "17f00c8376ca7d91753970df678b1abaa4a7246f451036c1e6d74f9512da9835",
+  "method": "connected alpha silhouettes, never equal-grid clipping",
+  "alpha_noise_threshold": 8,
+  "poses": [
+    {
+      "pose": "idle",
+      "crop": [
+        108,
+        8,
+        439,
+        427
+      ],
+      "size": [
+        331,
+        419
+      ],
+      "file": "pose-sources/idle.png",
+      "sha256": "0aac0e90de837084398ea33cc863b132383294535e8d43e4d44c2de20658dea8"
+    },
+    {
+      "pose": "review",
+      "crop": [
+        511,
+        6,
+        832,
+        431
+      ],
+      "size": [
+        321,
+        425
+      ],
+      "file": "pose-sources/review.png",
+      "sha256": "cd05278ab77c892f4a17463401618861933982d8fb40cd65f80435d63373d2fd"
+    },
+    {
+      "pose": "working",
+      "crop": [
+        894,
+        61,
+        1252,
+        432
+      ],
+      "size": [
+        358,
+        371
+      ],
+      "file": "pose-sources/working.png",
+      "sha256": "8fe9c65f3db4be5907a19683431239eec522d2121da3e9168ce75743e7478684"
+    },
+    {
+      "pose": "waving",
+      "crop": [
+        63,
+        423,
+        438,
+        842
+      ],
+      "size": [
+        375,
+        419
+      ],
+      "file": "pose-sources/waving.png",
+      "sha256": "d2166fc3012f92f8cb848fd58ca3d19b0c5970099808ca1a22521cc960e585be"
+    },
+    {
+      "pose": "walking-right",
+      "crop": [
+        452,
+        428,
+        827,
+        841
+      ],
+      "size": [
+        375,
+        413
+      ],
+      "file": "pose-sources/walking-right.png",
+      "sha256": "ce4beffd8819a7f0ade771c39156ce4dc87b7ad07af121d0fbe90d08fed1a51e"
+    },
+    {
+      "pose": "walking-left",
+      "crop": [
+        934,
+        432,
+        1253,
+        842
+      ],
+      "size": [
+        319,
+        410
+      ],
+      "file": "pose-sources/walking-left.png",
+      "sha256": "9d281666e7cd25fc2f4a17d742ca258ea6edbe94029da59fb6903d23e4bd7b76"
+    },
+    {
+      "pose": "jumping",
+      "crop": [
+        37,
+        844,
+        435,
+        1188
+      ],
+      "size": [
+        398,
+        344
+      ],
+      "file": "pose-sources/jumping.png",
+      "sha256": "9bbc30892a87d465b6b614b3495a2ee476891a50ac2379de6883ea49b41ef366"
+    },
+    {
+      "pose": "waiting",
+      "crop": [
+        500,
+        841,
+        824,
+        1247
+      ],
+      "size": [
+        324,
+        406
+      ],
+      "file": "pose-sources/waiting.png",
+      "sha256": "90f11ab69667d5fee0c71ed2a5ae52435f80d909fe0b2efac94ab7ab837b4cde"
+    },
+    {
+      "pose": "failed",
+      "crop": [
+        897,
+        872,
+        1236,
+        1247
+      ],
+      "size": [
+        339,
+        375
+      ],
+      "file": "pose-sources/failed.png",
+      "sha256": "13df2608f54a4802da852dfa352abbf5c2f298d0c9e6b5eb0599177c1b097bee"
+    }
+  ]
+}

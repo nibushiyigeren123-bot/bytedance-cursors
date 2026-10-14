@@ -1,0 +1,8 @@
+{
+  "transparent_background": true,
+  "referenced_image_paths": [
+    "E:/cladue缓存/AI全家动态指针_20261012/references/doubao-user-fullbody.png",
+    "C:/Users/Administrator/.codex/generated_images/01a12d0c-8375-79f0-ace9-afa1b234d5a3/exec-3a6246c3-5ccb-4103-b16c-894183aeed28.png"
+  ],
+  "prompt": "Reference1 is the user's AUTHORITATIVE complete full-body Doubao character. Reference2 is the nine-pose chibi atlas to refine, with the already correct chin-length short side-parted bob and app-like warm round face. Keep the exact short bob and cute 2.4-heads chibi drawing style in reference2 and all nine existing pose orders. Refine clothing/details to match reference1 faithfully: BLACK cropped open jacket with rolled cuffs, small GOLD/ORANGE pin on left lapel, black round-neck top with subtle center buttons (no added white collar band), asymmetric short black skirt with subtle pleat on one side, small golden waist/hip detail, black ankle boots with slight buckle details. No new outfit, no extra long hair, no ponytail, no ears/crown/jewels. Preserve nine complete poses: standing/thinking/phone work, wave/walk right/walk left, jump/focused sleepy/dejected. Main priority: recognize the user's provided FULL BODY clothing silhouette and short bob rather than inventing from an avatar portrait. Keep all figures separate in a strict 3x3 grid, reduce each complete figure to at most 65% of tile width and tile height, broad empty gutters, all hair/shoes/hands inside each tile, no neighbor contact or clipping. True transparent clean alpha-zero background, no speckles, labels, borders or watermark. Exactly nine coherent complete figures."
+}
