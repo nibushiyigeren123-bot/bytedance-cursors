@@ -1,6 +1,24 @@
 [
   {
     "character": "seedream",
+    "size": 96,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/seedream/96/Arrow.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "4d8328b13efa6d3b957760d60bc8ce119a7c2e135ca24ff382196088bcb1ae34"
+  },
+  {
+    "character": "seedream",
     "size": 32,
     "role": "Arrow",
     "label": "正常选择",
@@ -13,7 +31,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "9f561b004ff912b323840453e6ceb4bb0711c9fee7ec59304970a106f7990207"
   },
   {
     "character": "seedream",
@@ -29,7 +49,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "7eeac4bd1581b66f46a37a1a1dce79276d4eb3ef7555eaa5f9890940429c02b1"
   },
   {
     "character": "seedream",
@@ -45,7 +67,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "0adce9b8e3c3e0684fdffa46e03ef17cab826f5f26ede05ddebec707e24f8cfe"
   },
   {
     "character": "seedream",
@@ -61,7 +85,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "fc0f92ebb295cac5e47f0ba1338b4de0c0c25011817bef85a133916a79cd52d4"
   },
   {
     "character": "seedream",
@@ -77,7 +103,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "5492546950ad1ae3f25f2e3cfc191dd23750adfa41f4dd12aed5b2285554c7f8"
   },
   {
     "character": "seedream",
@@ -93,7 +121,27 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "a8f02a3560430c0deff5138d2cca68f0bae6af3f016405156f987b5c748ea9b7"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/seedream/96/Help.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "46330a2fd23228ec12d951608c8b3e5893b5e7ce40a669659d1537118a584658"
   },
   {
     "character": "seedream",
@@ -109,7 +157,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "2dd62957349c105e19197052c1c31985de10d2b54ce5c6aa63e9802e0fb128a6"
   },
   {
     "character": "seedream",
@@ -125,7 +175,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "a50f56de4c40c44ee628870d01e540ed98e815cfab18e392350ad86854d374f9"
   },
   {
     "character": "seedream",
@@ -141,7 +193,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "9fe382fcfcb834c8ebf310ba88d6c7f568727dbb363ac27ec706b397b7c393cb"
   },
   {
     "character": "seedream",
@@ -157,7 +211,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "e3df75d0273332b1da171925a089844e83dc78ae6c8c2a1829e5a2146ad619b0"
   },
   {
     "character": "seedream",
@@ -173,7 +229,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "e1da7ba2c4d22b00bbfae81b403434c39debabdf3dc434f076e1495682b6b3c4"
   },
   {
     "character": "seedream",
@@ -189,7 +247,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "e8854869f8609e348119c2a2e66e43087f3e44d40ca75052d81a4ee142d2dc99"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/seedream/96/AppStarting.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "adfb63bbb35de71aa931882c27b8f2d7b645fe10278fc3abcf6f0b7baf042a6b"
   },
   {
     "character": "seedream",
@@ -205,7 +283,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "7d23df3d75d36692b0df27e12770f1b88df3225937f76f76042503ff3159de29"
   },
   {
     "character": "seedream",
@@ -221,7 +301,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "287348f8b5d7231767a79d2518e282dcfe1e59e7061366648ff1c2e7ee72ac40"
   },
   {
     "character": "seedream",
@@ -237,7 +319,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "02c6f4129beec43dec82198daa37decb9961175940d68fdcd9ab2a477b9905fd"
   },
   {
     "character": "seedream",
@@ -253,7 +337,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "1d56e755f518e4583f00367c85d36c879c93c2528ada69b945de9b5f3c7c3314"
   },
   {
     "character": "seedream",
@@ -269,7 +355,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "a1dcb98f91d3758050a2a2ebeb5c62cd50342d6cf94285a3a698b9c7678dd971"
   },
   {
     "character": "seedream",
@@ -285,7 +373,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "c3c66ef72a761b686e209782db3b99a0800e45b3030408e04bd2774345a52b80"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/seedream/96/Wait.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "8ec90a206d399db2a17121e9e6827595ca008e536231137fc035ce1d9d4e69ce"
   },
   {
     "character": "seedream",
@@ -301,7 +409,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "d28f47f0084bd718bf956903eb8d5a45be9bff71c98aac40eaf7c592515bae34"
   },
   {
     "character": "seedream",
@@ -317,7 +427,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "0026d080062f265df3a4b328081cfe17089fed946de3658612fdd39788bc1c45"
   },
   {
     "character": "seedream",
@@ -333,7 +445,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "44bd5499572fa38c0c213f0c7d4c3bb3fd8c5e95b4a336125ee0ca4aaa7356ff"
   },
   {
     "character": "seedream",
@@ -349,7 +463,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "a1c842c4a0925391295abcc84861309a4bd84546b6f7f6ce19a2211228a8599f"
   },
   {
     "character": "seedream",
@@ -365,7 +481,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "f719185b83d5bdef682b24984b19f5540aa5d7a81fd6b51e0c1ba93c8a0e9503"
   },
   {
     "character": "seedream",
@@ -381,7 +499,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "0b14002c1c0325c7af2dd195a1b263ab02b3904383e78175441413967b00faab"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/seedream/96/Crosshair.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "37b3b33222980bbc2aef25492c399c24ca61198fa637d5f027688772848558a4"
   },
   {
     "character": "seedream",
@@ -397,7 +535,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "487d5e568fc8a853b1e99001c18cc7e1652276e86379c72a1ab5f9d997822143"
   },
   {
     "character": "seedream",
@@ -413,7 +553,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "1b4002e37b77864778e3ced740a45c2664f25f2a6c940649f75751135c8b50e9"
   },
   {
     "character": "seedream",
@@ -429,7 +571,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "64d1c2fd9ff8bdc024f5f3f174216e98fc31658b837ff69ec5b397c1f807badf"
   },
   {
     "character": "seedream",
@@ -445,7 +589,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "49e2c3d9b2f5499a14c6012bb1ba3760085dc4021110872c559daf7639e064cd"
   },
   {
     "character": "seedream",
@@ -461,7 +607,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "ccd764fd274bc0716211ce873b00e885e7875681ebbcb7e1aa164b6dc27bd90a"
   },
   {
     "character": "seedream",
@@ -477,7 +625,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "cefaf965844ed51d3b5df6291572d45531e521d9cffb71efee6591e6cbd4ba0d"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/seedream/96/IBeam.ani",
+    "hotspot": [
+      11,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "a7b40eb293d89c48b1cbb6b1aeedaf4919a9e4f2e400d74d6278fea9604a513d"
   },
   {
     "character": "seedream",
@@ -493,7 +661,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "e0681459ff691ee25a0dd33dfd90c745d12c337912b2ba68f6e0a1c7873a3009"
   },
   {
     "character": "seedream",
@@ -509,7 +679,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "614a0e3e556cee05904b036f06155f84eb74de67d611459d3905def5bc79fb55"
   },
   {
     "character": "seedream",
@@ -525,7 +697,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "1ac05e67d9664381544aed8e41ad8fd5f2e0726b5909c8bed7f0c8a785ac9c02"
   },
   {
     "character": "seedream",
@@ -541,7 +715,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "c93a3be0ece180d3e21529d9d26f3a85405ccabc93d6bd6c2991bdb20f060a7e"
   },
   {
     "character": "seedream",
@@ -557,7 +733,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "edf930d0fc6ba383871db9b118a7e576e9caa4065a260d74ea1eba2c8c7b3a2b"
   },
   {
     "character": "seedream",
@@ -573,7 +751,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "277388adb5337bdc850e391f11396639691182226080585921b7bc9b39d36b5c"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/seedream/96/NWPen.ani",
+    "hotspot": [
+      5,
+      33
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "9081e1828108b1bb000a1f2919db7d619626ccf1b00125e411dd671f8c014061"
   },
   {
     "character": "seedream",
@@ -589,7 +787,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "31115f5d79bbc78ad39cb4a793f704521f585ccd5e396caf4fd0911375600184"
   },
   {
     "character": "seedream",
@@ -605,7 +805,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "393bcee2636dc6a21a9ca6b685c0e33ffd3f131c65553feb721d1fc0ad3e22d5"
   },
   {
     "character": "seedream",
@@ -621,7 +823,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "ffcdc55026fd9e2e88aacc8f77977a1b1e4508c344db9c26feb2ab732d36f697"
   },
   {
     "character": "seedream",
@@ -637,7 +841,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "724c66582433ef475edaf107e81ff2bef04d2cb0da4f71ee88e9cbdcce9e1ca5"
   },
   {
     "character": "seedream",
@@ -653,7 +859,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "745c1ef52521dd5d5b146a7fefb7d0da3a9593270772cb0034022434ee3b60c6"
   },
   {
     "character": "seedream",
@@ -669,7 +877,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "2af074f046703a195e9e026ab6f4b77e00493d8768ab6a94b7cecf8579a473a0"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/seedream/96/No.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "8332756307aa491f87e905c17a6bc744b7f8ee52123be7319c206d9baacbfd70"
   },
   {
     "character": "seedream",
@@ -685,7 +913,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "5428d8dd4a921620986f6b22d6d4ec4ec6afa47fd0502be775acfde7b5e02562"
   },
   {
     "character": "seedream",
@@ -701,7 +931,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "03cb49b47b5bb3bfb9bf5d885d657ec955fa24de6a6943357f838c2e818d0703"
   },
   {
     "character": "seedream",
@@ -717,7 +949,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "08618111d191682e92f1d825cb1e482a34fb3d5ae8478ea56af50f1b995c158d"
   },
   {
     "character": "seedream",
@@ -733,7 +967,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "96d6cbb037d07e34027913b472482f6ed747e889acd2924d70b0929b7b1e64c4"
   },
   {
     "character": "seedream",
@@ -749,7 +985,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "f7860281282fb2df8434a538cd5f41c2b98382c6bf8025d7647a822bb021fbad"
   },
   {
     "character": "seedream",
@@ -765,7 +1003,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "d19297e50d56b359547796837b661b7d490badd6d88d1edf4313092e501addb1"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/seedream/96/SizeNS.ani",
+    "hotspot": [
+      9,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "c958c99e93a7914e8ae1defac103c3e5fc545b3f2b1126f41447482c5f4f7e0e"
   },
   {
     "character": "seedream",
@@ -781,7 +1039,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "7be34e14021a15f0e2217ca4a47addea39f2f402260db221bc68d8961818b10a"
   },
   {
     "character": "seedream",
@@ -797,7 +1057,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "e183a80952210dcb66a585bf70de645fc58db97403166e1c0d2c125e93e72a6e"
   },
   {
     "character": "seedream",
@@ -813,7 +1075,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "f49c780ca7a541f6bfeccd0666ae2c774c4dcf7802a3912c492a6b139ae5a86e"
   },
   {
     "character": "seedream",
@@ -829,7 +1093,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "8346185329acf08388a20dba2e576ae6cc3a755897f2b78a0e830ffd76021cf4"
   },
   {
     "character": "seedream",
@@ -845,7 +1111,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "81c73bd42025231393bc5a45390021a11e2587e49483e6d8a4531e4921938411"
   },
   {
     "character": "seedream",
@@ -861,7 +1129,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "431c1b9e10f6c7278405c94818cba3664215ff95d7125a85fbfea56ee5680da0"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/seedream/96/SizeWE.ani",
+    "hotspot": [
+      19,
+      9
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "382cf2342e73be53c3122c1eea3750c352972b4dedef55a3c790d4c89416fd33"
   },
   {
     "character": "seedream",
@@ -877,7 +1165,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "3e07323459072a258ddb39fc5c4d97c5de78d2f942a540ffeda0d68fa3dd532f"
   },
   {
     "character": "seedream",
@@ -893,7 +1183,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "c8cc1c5a8bfed8a3efdeffab621bd483391862f4fd82ed402a3b2be2dd351670"
   },
   {
     "character": "seedream",
@@ -909,7 +1201,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "3e788981c70911b068babd12d6f907dba50e6ce9895e6d3e95efc7f8990e3756"
   },
   {
     "character": "seedream",
@@ -925,7 +1219,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "79fbe2b696d3ceae53bc0e83c4ad7c401975b1e4f414437b26030818a043c1fe"
   },
   {
     "character": "seedream",
@@ -941,7 +1237,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "66bb770174c605a6ccfcd58d267a3928b05a2dbc496593956e4b9d867217b8b3"
   },
   {
     "character": "seedream",
@@ -957,7 +1255,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "b3cd6409b0b64c0cd590e4eb2c556e2f01fc8b0c676c0bba1719beaa096403ad"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/seedream/96/SizeNWSE.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "692544595aa58b3d6dfd79bd1e91f01b8b3161b4bd25bc20e049d3ac16a3e487"
   },
   {
     "character": "seedream",
@@ -973,7 +1291,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "aea60c3163209cecbc2c85bffc3705ec2886c0242c30551e17d15066eab8c133"
   },
   {
     "character": "seedream",
@@ -989,7 +1309,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "a0b0637808bf86d765e3b224387a68acad28f11391bf335547d00856f2287e97"
   },
   {
     "character": "seedream",
@@ -1005,7 +1327,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "5d2c544dc970a9759860c84945d3a61c4f373c60d350beccb7fbb3112640da7e"
   },
   {
     "character": "seedream",
@@ -1021,7 +1345,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "6db27035532c5f7f8649390b82633a68a5db0c704f207a889ed316ff3ff67264"
   },
   {
     "character": "seedream",
@@ -1037,7 +1363,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "39ff32ba11e1e1676aa663fd17addf88e954bf48e8d45bf530ec99f2a8108c7c"
   },
   {
     "character": "seedream",
@@ -1053,7 +1381,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "d36e0bc8903292dcebe8060d9f2cf0c4aa48decddc462bf5e9d2fc5573fc2216"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/seedream/96/SizeNESW.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "26fbcbb940c892fd5905fa35b13ed5aa3e62c0e601fe0338a3c68c49e4db1a7e"
   },
   {
     "character": "seedream",
@@ -1069,7 +1417,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "6ef08aa3b6c3dfb1ab24923373081072691e04dfbdcb2a69a9bb5bb6dcc370a4"
   },
   {
     "character": "seedream",
@@ -1085,7 +1435,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "df384ec6a3a775e7590dccb10ff63528de3d203f67f5373e5801d996e6d2af1b"
   },
   {
     "character": "seedream",
@@ -1101,7 +1453,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "20a8b4b1781fb2801e68717853567646756a3406012e1a45fe57747c03ba2064"
   },
   {
     "character": "seedream",
@@ -1117,7 +1471,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "36c40d68953aea7a465e4c0cfddd285e8feae829a87637a2d0b9042a5a5be74a"
   },
   {
     "character": "seedream",
@@ -1133,7 +1489,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "3c86aa6519c2b2db12a3a8c9a88890cfb4f1c35684aedff022345a8633bf4459"
   },
   {
     "character": "seedream",
@@ -1149,7 +1507,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "ce3e17a5b8686e0a9bf79c63fee4cbe52ac441db9bb3aec179d763b334fc8aa3"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/seedream/96/SizeAll.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "acd2fc7290d55c948a68beafe37884ae67f92d19b8f50fd4f05ac215593722b5"
   },
   {
     "character": "seedream",
@@ -1165,7 +1543,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "704974469d7b517e2b259d0f893e8c8403b87e9872ea9d95d278af83bdfb59e8"
   },
   {
     "character": "seedream",
@@ -1181,7 +1561,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "1c611c2070ad1eac1954c6b5d6e337afe98272d5ac3da2c1bd79d1b5683cd2e4"
   },
   {
     "character": "seedream",
@@ -1197,7 +1579,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "8615b7acf85c7049eb9448cf37bcf0cc12231c2b2095742275de5077985f0dd5"
   },
   {
     "character": "seedream",
@@ -1213,7 +1597,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "65559963e092fcdb0261c49ef97ce6e5c2d8d45c48161eaf24a000979487e392"
   },
   {
     "character": "seedream",
@@ -1229,7 +1615,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "412d74a2c25bb1e1dfbd0559692c4fcd7172046ccd3c938f5cd6c38fffe50a34"
   },
   {
     "character": "seedream",
@@ -1245,7 +1633,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "a5684ab7586654f4c76c996d0839d40ddea7f22d0d726ffe3452d856583df0af"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/seedream/96/UpArrow.ani",
+    "hotspot": [
+      17,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "689ec54e35d0bc58090413a81a8ae72a1f329b20d3c6d631a81ef140acecd98c"
   },
   {
     "character": "seedream",
@@ -1261,7 +1669,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "f92b1823456cd16121e9be867676b163d932278d7ae70771b5ec1a12bad070cd"
   },
   {
     "character": "seedream",
@@ -1277,7 +1687,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "b2f8b32cc15a8eb6356f9bd42aebd95fcbda9ccb64d89249a53041ce27f8c259"
   },
   {
     "character": "seedream",
@@ -1293,7 +1705,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "49758c46ccaf4adfa4cbe5e5dfa2f213eced7c0d79b8aaea7f7c2d0e92ef962b"
   },
   {
     "character": "seedream",
@@ -1309,7 +1723,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "ab019b5a8a692f987524399c4115bd4e8a7eb4c5660e5f0c236ffa6f31c979e7"
   },
   {
     "character": "seedream",
@@ -1325,7 +1741,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "a8c26f08d0a62b2daca09db7f940b805151e18339264e97e6a741f9ab145f16d"
   },
   {
     "character": "seedream",
@@ -1341,7 +1759,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "f92a51a05aedc82d239db62c5fb82ce140a40f90f2521c211314a175a4ca8d9c"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/seedream/96/Hand.ani",
+    "hotspot": [
+      13,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "7e569519fa27218daf29d4a56996f7c55b69a7ea517572b4547106a93f8e4970"
   },
   {
     "character": "seedream",
@@ -1357,7 +1795,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "46243e7ddb73b1fc466e07abccc20d4c82cbd22b4f25ef1014e7485e8fe6fc6e"
   },
   {
     "character": "seedream",
@@ -1373,7 +1813,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "b86c57dabc548709e794834d6a0c9550dd02995b099e8cb92d1468bcd50ab435"
   },
   {
     "character": "seedream",
@@ -1389,7 +1831,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "2541edcde2d1da2e3a5b365a3229b963690adad7a01445f4b65d9ceeaa40a79b"
   },
   {
     "character": "seedream",
@@ -1405,7 +1849,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "638696dd3c1a12567e22a8cdcf7d0bbfea68197796c029b858c616b707344136"
   },
   {
     "character": "seedream",
@@ -1421,7 +1867,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "4aea1e359ac15afa62e43d11589d20894ff5f97bdce815b3dba591ab24551fcf"
   },
   {
     "character": "seedream",
@@ -1437,7 +1885,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "c65c3ae734c754d87cf7a34f8b3f707a4011adcff8c178d4f16a0904fc4663aa"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/seedream/96/Pin.ani",
+    "hotspot": [
+      16,
+      34
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "cb1090feaea191ee80832745b3982b55630e4b587c8ad36598059ef90b29373e"
   },
   {
     "character": "seedream",
@@ -1453,7 +1921,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "033397bcbeb67f148fe4544f7e789e97fcb12c2033bb3be2c7833a30059c4a3e"
   },
   {
     "character": "seedream",
@@ -1469,7 +1939,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "4dc0cc6020863200dec6029ede31b229f9f5540b48721bff8cb2299a3bf5b075"
   },
   {
     "character": "seedream",
@@ -1485,7 +1957,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "e556b97736b614db1b864a3e94b32669e64fb68a4bfe20ec352f518d0d5a882e"
   },
   {
     "character": "seedream",
@@ -1501,7 +1975,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "6cde0703ac2fa83d46fd3581d0d2a4660c04bb360f1818d20f78a8ab56f06d37"
   },
   {
     "character": "seedream",
@@ -1517,7 +1993,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "8a9e3e8f201999e1f5a9948b481d074daf227bcb8ae1e081c1df0edd9ad7e3d7"
   },
   {
     "character": "seedream",
@@ -1533,7 +2011,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "171f72b913733670edb1a40eb0c212a336818468677fc5e153ba761f6ce0edbd"
+  },
+  {
+    "character": "seedream",
+    "size": 96,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/seedream/96/Person.ani",
+    "hotspot": [
+      18,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "6c57e41072f645b5093cc08daec65e172a0792403d73ea65ac8513f9a0c40071"
   },
   {
     "character": "seedream",
@@ -1549,7 +2047,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "11339e3634cf219a4f9abb5558a1a74bdcc1078fc1f5610f58305e74efceed65"
   },
   {
     "character": "seedream",
@@ -1565,7 +2065,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "316c20a2e41e3863bcb11bc8df6166d24a66576f6b42a6119b95be1e7ede9624"
   },
   {
     "character": "seedream",
@@ -1581,7 +2083,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "61e92da8aa20d309a26cc6e170692204c7e1d067a2cf0630ae1491e797655550"
   },
   {
     "character": "seedream",
@@ -1597,7 +2101,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "585e6949b3eb54a1876c975517978b6c337270c7322d79fc107ea1573e2aca9a"
   },
   {
     "character": "seedream",
@@ -1613,7 +2119,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "f5601eef520276dd6cae6d58ece9ebeef0b108575fb35b5fa6b6c3d8dcc124a9"
   },
   {
     "character": "seedream",
@@ -1629,7 +2137,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "618d5e1b80046295716aa81c935d94a7d870aa28f25a214f7a04b16adcd632c0"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/doubao/96/Arrow.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "a81f3a55db9c650a2cf2af0a5dcf0f21153b2023d9ae4a3b6df678e9ac199a8a"
   },
   {
     "character": "doubao",
@@ -1645,7 +2173,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "550ca8e420947a231024362c04bdcf97b35365d3abf30114af3518f05ec2963c"
   },
   {
     "character": "doubao",
@@ -1661,7 +2191,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "2ae52f8a7dc7445f62a9be6b5b1a536260d3173fa4dba884d3c0f1c8909e34bd"
   },
   {
     "character": "doubao",
@@ -1677,7 +2209,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "6d379aa763659b5a59437c1f8964f444379d3e718cbac7d356209bed9d433f85"
   },
   {
     "character": "doubao",
@@ -1693,7 +2227,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "09fab6c9f027e355f1c97aa131773480324596b5014ef2fd0415d3ffd85c1878"
   },
   {
     "character": "doubao",
@@ -1709,7 +2245,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "64811a10e91966588301105e55ed5f5a3f4ab6aea456b4af778f4002705efbbe"
   },
   {
     "character": "doubao",
@@ -1725,7 +2263,27 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "4c8573a9e1c4ab315c8469dafe7a07cb6aee2060f637524d32830fe7d230eaea"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/doubao/96/Help.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "1e169bd9d1ee0baea120fec66482eb14614c24b4c6e231768cee2063b33ba7be"
   },
   {
     "character": "doubao",
@@ -1741,7 +2299,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "99fed8db3dcf6c5f94e4a2ab0a88aa4041441fb142f624f24f03045267b36396"
   },
   {
     "character": "doubao",
@@ -1757,7 +2317,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "b8a3423c9dfa164faba179a88d607505c36053d78c8306e69c2ef4ceb2d17b68"
   },
   {
     "character": "doubao",
@@ -1773,7 +2335,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "8901bc99e6cbafb0278cfc1ef7ecc27dd6962830dbdc0f342ee9734ddbe04eb4"
   },
   {
     "character": "doubao",
@@ -1789,7 +2353,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "79e572ba6a09ca95d2e8052cd60725f2d608dc883a58c581432fcc222f66f0a0"
   },
   {
     "character": "doubao",
@@ -1805,7 +2371,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "d57bd7917f5ac154fb8c3d0d188869b8da15cd7847188347b5c36436ed6ac810"
   },
   {
     "character": "doubao",
@@ -1821,7 +2389,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "cd3925144964afa3a4c5d7ad93e498735f23f880c0bd69ade3292d7570025020"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/doubao/96/AppStarting.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "e5388a918748375c98aefe3bddccce8b202741acee442e6b719d4a4f554640cd"
   },
   {
     "character": "doubao",
@@ -1837,7 +2425,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "f2d2ef27082a7fcf7b1911e2ef2279ef41428e8e79cf30acadf77a02efb1e2f5"
   },
   {
     "character": "doubao",
@@ -1853,7 +2443,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "696930dc0359c671f208f199bad462bf801ee114079c4c1c5c68672c3ea4ecb9"
   },
   {
     "character": "doubao",
@@ -1869,7 +2461,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "9cad91057766f0f4a89d8e945a4948d323cfbfcd4dcf70eeafe6430e01e3ee0e"
   },
   {
     "character": "doubao",
@@ -1885,7 +2479,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "e781896672cdc50753d7307b7eb13a87a20d0a007183940207220dd39a7b5593"
   },
   {
     "character": "doubao",
@@ -1901,7 +2497,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "865043d0b3ae354f31509ee837dce51e6abc097b96e534f5413b11efcc4ccd55"
   },
   {
     "character": "doubao",
@@ -1917,7 +2515,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "b20f77a3232223f8d02e4d0cfdf2dc20a046378197c825d652b2554ead9beb14"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/doubao/96/Wait.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "abd10879dc636d9f941738db037f8cbade9c739a0ec14aeb7fd1f78d79c1816a"
   },
   {
     "character": "doubao",
@@ -1933,7 +2551,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "a08c9cb8ee016f38b3d3acc34e30ca62636b71e708ebf15a2be612678ba99f52"
   },
   {
     "character": "doubao",
@@ -1949,7 +2569,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "6ef4a09bff2d8ebccbae1a132ffcbcfff844f37decba4ef42285bacfeace6536"
   },
   {
     "character": "doubao",
@@ -1965,7 +2587,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "95353121ede6fb65dc21b04748b909eb50fc2b3fe78b70aeeefb96dc553dc90d"
   },
   {
     "character": "doubao",
@@ -1981,7 +2605,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "954cc6b1611fde9afbe2ccefe4bea81e91ba7fd75538b3f402beab818fdc6d51"
   },
   {
     "character": "doubao",
@@ -1997,7 +2623,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "121ea60a30d419d74e945fe05447009a057faba68a84721f47dd73f1b50cade6"
   },
   {
     "character": "doubao",
@@ -2013,7 +2641,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "36aea0a16ac89c7c4ad9205de1a0b707793ca4e42935ced577933d385c7691dd"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/doubao/96/Crosshair.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "376931e31dc28350a3f8c0a02f88697ad490d62cfb09407e5f089650b6a7ca3f"
   },
   {
     "character": "doubao",
@@ -2029,7 +2677,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "3c84533dadd0f25fa4fe6105828bb8f379d85c27b82b85c1f89dddf9a00b6c8a"
   },
   {
     "character": "doubao",
@@ -2045,7 +2695,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "8ef039dd398a2864e16d1e096989cd72dfedf40d9f4258aa8770c6fb1070ae87"
   },
   {
     "character": "doubao",
@@ -2061,7 +2713,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "166bb03914a7ad9047b9f3db1313f5c37f42b42cab39a2b02fa41ba6066bc58c"
   },
   {
     "character": "doubao",
@@ -2077,7 +2731,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "138990510b2da54ca68f1f768cbf0324ebf3b0844cf5cf8cf302f92ffcf19d8f"
   },
   {
     "character": "doubao",
@@ -2093,7 +2749,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "1eb8f6434db96134404194fd8f64482f4c1e0032dc0989aca4d2aa4bc1b2e3b3"
   },
   {
     "character": "doubao",
@@ -2109,7 +2767,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "004485f67c54abb0de1a2f4bff10917d8669983f1690858dd6d1960cb7cdc026"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/doubao/96/IBeam.ani",
+    "hotspot": [
+      11,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "182e65587d006ad722b50060960c1f788863cb87a04c39df067c549ecb5fe4b0"
   },
   {
     "character": "doubao",
@@ -2125,7 +2803,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "21169d589f590209b8572eb1be89206ad98f3ff2a7a79a6d9aa1c478d0fbcc89"
   },
   {
     "character": "doubao",
@@ -2141,7 +2821,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "b586552355100f3ba7dcd61465f36f32f6f22d220b0413f10dd12d7a701162f4"
   },
   {
     "character": "doubao",
@@ -2157,7 +2839,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "8d845183c758bc9d1238050a77b4a6f6dce2a3b31aa3904a48093fc4d29bfb79"
   },
   {
     "character": "doubao",
@@ -2173,7 +2857,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "16504d3c19869f943f8b981661764096873761555e3089a8a1f00fd5dca67e5f"
   },
   {
     "character": "doubao",
@@ -2189,7 +2875,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "2ab3b29d4f4393d95a5750bfe8ddc2915edd88471db74f09ddfb25033cfe5f9d"
   },
   {
     "character": "doubao",
@@ -2205,7 +2893,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "811a7d01c364dbc6ee72f97ca2611e070495d043520a2a89ead2d4ba8c2ef301"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/doubao/96/NWPen.ani",
+    "hotspot": [
+      5,
+      33
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "033a38641987a7bf24bb17b49faf7886912fb7ca4be2faed2e6a7a2109de4b4a"
   },
   {
     "character": "doubao",
@@ -2221,7 +2929,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "9857f8a3c3cb4869d343345cb53fb608738b48ebb0dd9c66fb24279da5283f49"
   },
   {
     "character": "doubao",
@@ -2237,7 +2947,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "8dac4cdec777fcb36ec43e1b3a4e983d32f41b52b62f87d2d9141115d5757536"
   },
   {
     "character": "doubao",
@@ -2253,7 +2965,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "71576a4cbd23cd3edce59068028e037e3a26cf4bb661e859277918be4f9df0bd"
   },
   {
     "character": "doubao",
@@ -2269,7 +2983,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "3208a0d7825fa097ed77ad0d1f9b48f9e93177223371fbd4598cbcc55a731f93"
   },
   {
     "character": "doubao",
@@ -2285,7 +3001,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "58cb77782520ec8ef3ad0a80d4a817f61d02eed6b5d794198fd6dfe8c4d8fdda"
   },
   {
     "character": "doubao",
@@ -2301,7 +3019,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "4f34a021c7b58f02582313dc72ea724753da507460b6a9529a216d815a1ed794"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/doubao/96/No.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "3be292d86b90bc6ad602fd73e1d42c4f72cc39e010b49dea24b2f67d45035f68"
   },
   {
     "character": "doubao",
@@ -2317,7 +3055,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "8ba2a8ec376669fadc0cca4dbb17a7472d2df3290a3dda9765187be2abaaa578"
   },
   {
     "character": "doubao",
@@ -2333,7 +3073,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "52976c75cf7b25d17b749d952fb315af1c5db1f460f0d3abbfee608c6e01b40a"
   },
   {
     "character": "doubao",
@@ -2349,7 +3091,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "16c07b613557408fc5902d1240334277cd099397bbfc40bd321415a584609d04"
   },
   {
     "character": "doubao",
@@ -2365,7 +3109,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "a0e3bb9e2ec467a3780ae312a0d669d4f21f1e1c5cd4a9310949ac74f7421a5f"
   },
   {
     "character": "doubao",
@@ -2381,7 +3127,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "fd2d79a3e037128333bc6eb6388b2921b4c1041fdd9b9e0c83621c3d17e42443"
   },
   {
     "character": "doubao",
@@ -2397,7 +3145,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "35991e26b125dd33e52599acdd1ce92c43134bc9a30e97d9454d61d1a41d0a01"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/doubao/96/SizeNS.ani",
+    "hotspot": [
+      9,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "4f6c729d449f843944699afde5bfa55fa87584fbb818700dba3a939e80305d35"
   },
   {
     "character": "doubao",
@@ -2413,7 +3181,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "8307435470ee1b44d36eb4a667c007220a86c89e6197bdb7308c21f24d7996a4"
   },
   {
     "character": "doubao",
@@ -2429,7 +3199,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "56f0445f021fcbb63f604d035380ebf6ae4f85cf1c46f6b19dc1ba99cd855c36"
   },
   {
     "character": "doubao",
@@ -2445,7 +3217,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "b9ad4959d2841c938daafcf925bf3f3d218cf9bf0405fee8442840ae9b4522cd"
   },
   {
     "character": "doubao",
@@ -2461,7 +3235,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "68cf1c5ee9a5f9d2e2d2db0c8cd31ae371e2efe3595041d0913e77d3878c8d42"
   },
   {
     "character": "doubao",
@@ -2477,7 +3253,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "3326d4e3f8c835efe41129c7707b3b32a0351edbd26f9c8d1f64e49404e0a228"
   },
   {
     "character": "doubao",
@@ -2493,7 +3271,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "3b826d73eb5c916ff633318061ef609bf7e4f7e396d15d9c762b2310381fc818"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/doubao/96/SizeWE.ani",
+    "hotspot": [
+      19,
+      9
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "911bd50e10e502b23bc4ad826affcc69ab531aae352d7bae4100c707305834c3"
   },
   {
     "character": "doubao",
@@ -2509,7 +3307,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "083721ec3d86296bd986dacb03b81f61463a8809af400985bc395e7f55d95651"
   },
   {
     "character": "doubao",
@@ -2525,7 +3325,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "92ea6ccfb82d1079ebd7f23564ab789733de1e39da6636186690f4d91b0dee8c"
   },
   {
     "character": "doubao",
@@ -2541,7 +3343,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "771b596e2921d821ea83bc75277cbcca9bd402a51e16c9ee49cd6044b749007e"
   },
   {
     "character": "doubao",
@@ -2557,7 +3361,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "2b0b148bf95c6ebc9bfbfac4ce45330555a841c331df0e89aa5cd8cd477b3b3f"
   },
   {
     "character": "doubao",
@@ -2573,7 +3379,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "102b22fb6aec9b7960881274be06e830f912ae91e7a351b208c95f7a9fae495e"
   },
   {
     "character": "doubao",
@@ -2589,7 +3397,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "60764bfa21484377e58d756941b69d5aef86c97872654817272b74f502911928"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/doubao/96/SizeNWSE.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "58edb6a902e6513a54258109263c26fec4db5252ff61e138fb85f37f06732dc5"
   },
   {
     "character": "doubao",
@@ -2605,7 +3433,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "bae6cb519f3278a631e0a708b2bed2936b9a1218488449fc3385805241994a86"
   },
   {
     "character": "doubao",
@@ -2621,7 +3451,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "e762a4e9484de9c1a4747e8b868730f5e565410bcf4a6cab2b13e2bae0debcf0"
   },
   {
     "character": "doubao",
@@ -2637,7 +3469,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "491c7f8c7bd5275bf1fa370c252434aa20fcc0ab6bed66aa2fdf69020eb8aa46"
   },
   {
     "character": "doubao",
@@ -2653,7 +3487,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "dfe9155e475019745dcd5b294000bcbf43af10a41fcd3589fc776354078d7c2a"
   },
   {
     "character": "doubao",
@@ -2669,7 +3505,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "d32c33c2612808e19e46bff1bb358860b10a736cc22ddbe7dec6589360149fc2"
   },
   {
     "character": "doubao",
@@ -2685,7 +3523,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "d3642bec7dbe10569fad2ec87f575b3caaa4c1e109c5c232732518886f0609fa"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/doubao/96/SizeNESW.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "4f36c94e94aeb9a9d7b035c489e5b4edac6ce9976acce1add70a3bb823056214"
   },
   {
     "character": "doubao",
@@ -2701,7 +3559,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "74ca34813f9ba593a13985dcab701927f112d7fb91cbc4201edb4723f6cee51e"
   },
   {
     "character": "doubao",
@@ -2717,7 +3577,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "e55a29a9bd84af8f36bb43c7461a5f5ac8ccccdd89f3f90066a31e4fda66c5f5"
   },
   {
     "character": "doubao",
@@ -2733,7 +3595,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "0ebdde29b1c46b08f425fee13425a1763a10328348611a63e2ded49264a9081f"
   },
   {
     "character": "doubao",
@@ -2749,7 +3613,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "190fc7777311954a1f1b68b9d5fd3664a5ea534ca92a20907983658869abb670"
   },
   {
     "character": "doubao",
@@ -2765,7 +3631,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "bb910217c1946a6d49bf9bb8ca17434ca758d8ca77e88bac11d4aadf320386e9"
   },
   {
     "character": "doubao",
@@ -2781,7 +3649,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "141637512e1d352fb216a407aab99a6eb57f546faa741441bb9e374c604a0819"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/doubao/96/SizeAll.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "28f5078733dc91f3fbcba632bd41fe50221a72b27ba3df98deb174169ec4989c"
   },
   {
     "character": "doubao",
@@ -2797,7 +3685,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "5c376a4d50b7a87caee6e26c7c5bc1b1a76054659f705c3327a1ae0add84ef34"
   },
   {
     "character": "doubao",
@@ -2813,7 +3703,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "6ea3a1f000491f71e4845c5326a107eeaa35cb96facfb2f6915c59d902f2b176"
   },
   {
     "character": "doubao",
@@ -2829,7 +3721,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "a85c2457c91ad2665c36c0fe8bfaf58ebabb95f37abbd739a77cb631e78d1be2"
   },
   {
     "character": "doubao",
@@ -2845,7 +3739,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "235f9a54c24542c5a32f96e04c716c0815610b526b1a7c23fd199bb9e3b89fe8"
   },
   {
     "character": "doubao",
@@ -2861,7 +3757,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "5053f23fdb49711329e9c80979aeb8e66e0cc86a817b0d57529e6f68dca41375"
   },
   {
     "character": "doubao",
@@ -2877,7 +3775,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "e370ce8e9ad2aec33fff0b9159a1f813266f904406a03cf857ad7d08d0ed27d8"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/doubao/96/UpArrow.ani",
+    "hotspot": [
+      17,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "4251815977dcc3c53e8d1d22955583a045dc48b31c020221fef80c3ee71a9950"
   },
   {
     "character": "doubao",
@@ -2893,7 +3811,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "740dc813bbbddd111ccca1271e6ede13b51dea6e7ff5fa13bdc9e47557698b16"
   },
   {
     "character": "doubao",
@@ -2909,7 +3829,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "202e54858774daf67bdfe12e7a98bc1b42738e262b3e59d36cb152565a01dcc7"
   },
   {
     "character": "doubao",
@@ -2925,7 +3847,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "643be9524d1b593ff25e2b3434b35033ad61d59a11522e445b95c8baca801255"
   },
   {
     "character": "doubao",
@@ -2941,7 +3865,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "1745887b39ff11ea386ef55c207b18c10b36a093a37faa77f9ab50a25c6ce7a3"
   },
   {
     "character": "doubao",
@@ -2957,7 +3883,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "3633fbe77c6b1a4211416468d798f2c85794839a6c61c7553c15e3479042863c"
   },
   {
     "character": "doubao",
@@ -2973,7 +3901,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "1282b231337bf73ba39505dd3f84453e2a1cf801c25b51b432e8dce68d595535"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/doubao/96/Hand.ani",
+    "hotspot": [
+      13,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "fca747ecca4539894280ed9407def5366681c792caa24fbcfa60cd7c6f472cb7"
   },
   {
     "character": "doubao",
@@ -2989,7 +3937,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "6c4e9c2b4bcba366f99542d097c640016b66b7f59403c51a0e011da40331eaa5"
   },
   {
     "character": "doubao",
@@ -3005,7 +3955,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "bc907596fc50b7063e087d0966014620ca7df75c8ccb1004628fcbc16e34ab8f"
   },
   {
     "character": "doubao",
@@ -3021,7 +3973,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "d5824002696c1172565747fc95ce68b1ec9f66796c331c4feace4c08973ce6c7"
   },
   {
     "character": "doubao",
@@ -3037,7 +3991,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "79d8f63e8577328e998761bf0fb8ee0a8b7fb4f7071ef7249bf7d0484ab755a3"
   },
   {
     "character": "doubao",
@@ -3053,7 +4009,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "ca0615d92104dc122cd0c8f16f0cce14b83044ce57b9f57c2d5b349f7c43c690"
   },
   {
     "character": "doubao",
@@ -3069,7 +4027,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "121222af8964d781b6cf78e05ceb41855a4f63ca859436cc4b235aeb392c28ca"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/doubao/96/Pin.ani",
+    "hotspot": [
+      16,
+      34
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "634db93ddc7bfc018da19d5f44100684f782e5339edfb9cdcd9caf96cdddcb21"
   },
   {
     "character": "doubao",
@@ -3085,7 +4063,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "8aba7251f7bbf024107303bd3748aa737f772f4aa99da21b9f9a0f71aa9175be"
   },
   {
     "character": "doubao",
@@ -3101,7 +4081,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "5488802e281aa78752c22bf2add60be1ca2af6e6442dcda5fdaca89933db666c"
   },
   {
     "character": "doubao",
@@ -3117,7 +4099,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "a1f7ecaba35c8c935d7f3feab7ab19e476137e96799538c5de03812e31007a4a"
   },
   {
     "character": "doubao",
@@ -3133,7 +4117,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "36a9e9dd29d030c7e1bc03c91f4498dcabef913744032811cc69c75031930e62"
   },
   {
     "character": "doubao",
@@ -3149,7 +4135,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "744578fa4e58e2d25d6ec83952fa0668ad36c8d8614cce97d94fb60ea95540c9"
   },
   {
     "character": "doubao",
@@ -3165,7 +4153,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "e007359bca430f2293a65f8be1fd0edbfb9fd1d3bbdfa9a1229026784de3c6b0"
+  },
+  {
+    "character": "doubao",
+    "size": 96,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/doubao/96/Person.ani",
+    "hotspot": [
+      18,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "67101068aee1a102043e0671fe9e7c35f5ffa8321cb87995f6f0fa7e12426031"
   },
   {
     "character": "doubao",
@@ -3181,7 +4189,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "659ba8f8b7e5d235344ea17c6319e8fd8567b37f84cecdf693255968058f3b2b"
   },
   {
     "character": "doubao",
@@ -3197,7 +4207,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "a4b0a1030aea0ec0571577a495d3af8115f20eb1ce04cfb3043d264638ffb876"
   },
   {
     "character": "doubao",
@@ -3213,7 +4225,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "49cd2dec1e31786517291e171db138b0b27e85e7a81b49496422b14a19d885ec"
   },
   {
     "character": "doubao",
@@ -3229,7 +4243,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "0a8a907c339e8db77656f97356f97c4aa8651e7cce9095b480cd60afacff58c4"
   },
   {
     "character": "doubao",
@@ -3245,7 +4261,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "97974e9ac218a1f529ba3f4cb14ab7197660c9871a047e7e51e119589eee2901"
   },
   {
     "character": "doubao",
@@ -3261,6 +4279,8 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "e5453dd95d1d8ed78d3e3a371bcd5d0d8b50dfcaa0d1ec5d79f5145167575749"
   }
 ]

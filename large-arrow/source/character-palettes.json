@@ -1,0 +1,16 @@
+{
+  "seedream": {
+    "INK": "#14282a",
+    "WHITE": "#f7fbff",
+    "MINT": "#2e9c97",
+    "GOLD": "#e8c66a",
+    "OUTER": "#14282a"
+  },
+  "doubao": {
+    "INK": "#34291c",
+    "WHITE": "#fffaf0",
+    "MINT": "#c5a35a",
+    "GOLD": "#c5a35a",
+    "OUTER": "#34291c"
+  }
+}

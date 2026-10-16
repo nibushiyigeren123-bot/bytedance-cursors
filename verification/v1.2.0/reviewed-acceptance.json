@@ -1,0 +1,104 @@
+{
+  "version": "1.2.0",
+  "success": true,
+  "fileVerification": {
+    "repository": "bytedance-cursors",
+    "aniFiles": 442,
+    "decodedFrames": 3536,
+    "characterIdentityFrames": 1904,
+    "maxGapError": 0.9214718124729036,
+    "rawSourceFilesUnchanged": 40,
+    "paletteChecks": [
+      {
+        "character": "seedream",
+        "edition": "original",
+        "size": 96,
+        "outline": "#14282a",
+        "verified": true
+      },
+      {
+        "character": "seedream",
+        "edition": "original",
+        "size": 256,
+        "outline": "#14282a",
+        "verified": true
+      },
+      {
+        "character": "doubao",
+        "edition": "original",
+        "size": 96,
+        "outline": "#34291c",
+        "verified": true
+      },
+      {
+        "character": "doubao",
+        "edition": "original",
+        "size": 256,
+        "outline": "#34291c",
+        "verified": true
+      },
+      {
+        "character": "seedream",
+        "edition": "plus",
+        "size": 96,
+        "outline": "#14282a",
+        "verified": true
+      },
+      {
+        "character": "seedream",
+        "edition": "plus",
+        "size": 256,
+        "outline": "#14282a",
+        "verified": true
+      },
+      {
+        "character": "doubao",
+        "edition": "plus",
+        "size": 96,
+        "outline": "#34291c",
+        "verified": true
+      },
+      {
+        "character": "doubao",
+        "edition": "plus",
+        "size": 256,
+        "outline": "#34291c",
+        "verified": true
+      }
+    ],
+    "success": true
+  },
+  "actualWindowsAcceptance": {
+    "repository": "bytedance-cursors",
+    "observations": 58,
+    "sameDefaultCaptures": 28,
+    "nativeCharacterComparisons": [
+      {
+        "character": "seedream",
+        "samePhysicalSize": true,
+        "opaquePixelsCompared": 2640,
+        "maxRGBDifference": 0,
+        "ordinaryCompositionPixelsExcluded": 0,
+        "offset": [
+          11,
+          10
+        ]
+      },
+      {
+        "character": "doubao",
+        "samePhysicalSize": true,
+        "opaquePixelsCompared": 1643,
+        "maxRGBDifference": 0,
+        "ordinaryCompositionPixelsExcluded": 0,
+        "offset": [
+          8,
+          10
+        ]
+      }
+    ],
+    "success": true
+  },
+  "environment": "Windows11-Lab; interactive LabUser; 96DPI; system preference32 and48",
+  "scope": "This repository: real CMD for every character/tier; all17 native system role sizes; default-scheme pixel identity. Shared edge-case tests: Gemini reboot, user-size48, INF96/256, legacy-backup filtering, cache repair, matching-name foreign paths.",
+  "limitations": "Actual VM acceptance covers this Windows11 build at96DPI; otherWindows versions and DPI combinations are not claimed tested."
+}
