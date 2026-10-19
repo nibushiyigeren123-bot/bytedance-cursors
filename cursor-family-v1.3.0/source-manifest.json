@@ -1,0 +1,28 @@
+{
+  "version": "v1.3.0",
+  "packages": [
+    {
+      "kind": "non-avoidance",
+      "name": "bytedance-cursors-non-avoidance-v1.3.0.zip",
+      "sha256": "33f8f6aa8d43fc99fed9c5ee41d000769717d1b7962c79682e5d0d0d70d2e9fe",
+      "coreSha256": "439155a4cd911b60b6d67880a386a105ee86687419cb2531346d20abbce4349b",
+      "profiles": 26,
+      "characters": [
+        "seedream",
+        "doubao"
+      ]
+    },
+    {
+      "kind": "avoidance",
+      "name": "bytedance-cursors-avoidance-v1.3.0.zip",
+      "sha256": "d58f2195f332878e7acf3e18e59bc05a61409704de8fbb24969804eb8ac5c94b",
+      "coreSha256": "95a24bd9db6be92a126df4babc201e73aba80808a5d0504d644ab95b119fff74",
+      "profiles": 26,
+      "characters": [
+        "seedream",
+        "doubao"
+      ]
+    }
+  ],
+  "resources": "Complete editable PNG/ANI assets are included in the corresponding installation ZIP."
+}
