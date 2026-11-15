@@ -1,0 +1,30 @@
+{
+  "version": "v1.4.0",
+  "kind": "full-avoidance",
+  "runtimeSha256": "0e7a173da8c96ac7e1d21386966e90095b0083e2959c9eba4436406a5a20ff23",
+  "assets": [
+    {
+      "name": "bytedance-cursors-full-avoidance-v1.4.0.zip",
+      "bytes": 66270734,
+      "sha256": "09f4b40496976a2873eb0b980685fb2aece818562143d5ee4ac205104b0993da"
+    },
+    {
+      "name": "bytedance-cursors-full-avoidance-source-v1.4.0.zip",
+      "bytes": 510128,
+      "sha256": "bedbb9a8c6d3cb56632772889bbbb42560d016ca4aee4f0ca32871d7c894f96b"
+    },
+    {
+      "name": "VALIDATION.md",
+      "bytes": 2599,
+      "sha256": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 229,
+      "sha256": "e3c1e03c17191a569a25e16ee966a796c8da63db6390504b1cadad777ad89dc0"
+    }
+  ],
+  "originalCmdInvocationPreserved": true,
+  "cmdWaitingMessageAdded": 26,
+  "originalMediaUnchanged": true
+}

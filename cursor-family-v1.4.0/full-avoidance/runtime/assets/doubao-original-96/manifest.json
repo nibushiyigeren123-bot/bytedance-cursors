@@ -1,0 +1,3079 @@
+[
+  {
+    "role": "Arrow",
+    "frames": 8,
+    "frame_ms": 200.0,
+    "jiffies": 12,
+    "hotspot": [
+      1,
+      2
+    ],
+    "symbol_hotspot": [
+      1,
+      3
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/Arrow",
+    "body_hashes": [
+      "aa2380126e8f5cd0cf985e83f0895d2100ffbeb9988fd7f55529bc0bc80fbe36",
+      "0d9808675025ad878e509904d9b26faf067582f2d665af8fe6fa878ab941684f",
+      "5e1028bd1a51b1f0aaf76e2b9ad2ed107a7b80a08b84a013994df61cf2edd81b",
+      "0d9808675025ad878e509904d9b26faf067582f2d665af8fe6fa878ab941684f",
+      "959bd2d8356953a6acbd9c94addd26857aae0b25814a8114057ff00bb43ce6ea",
+      "c83cf8d9dfbaf32ea770f2255525ed6c1ec47957667ba4721817ec2a0ff27029",
+      "513f5542033ad8093252c6b9341345e10fd931dd364bc37a6c5fcf83277024e3",
+      "c83cf8d9dfbaf32ea770f2255525ed6c1ec47957667ba4721817ec2a0ff27029"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "742565d08080b668deea3c9e30f2daf13856fc4a4dcc8e383be0d3a4f00b1eb6",
+      "f348577b7a87e4b84977afffdda1d5d1e4429149917d6b233b1fd66d92485ca2",
+      "ef95eb81603ce48dd69e8866a6cf4bb49bcbfb3d07bfaf95cad251bdd13510bb",
+      "f348577b7a87e4b84977afffdda1d5d1e4429149917d6b233b1fd66d92485ca2",
+      "40e809916f0f43ffd66fd1642508d41c7829a65f22d3ed6c1eb01f4da9172a50",
+      "33bc244c2b39a8bf8f281f097b41d1719eb4162c2de25415a7bee3bf8b75771d",
+      "07ad34c6346a74af6799ceb4668ecfdab512a8de286b9dc9e594dc187ce9856f",
+      "33bc244c2b39a8bf8f281f097b41d1719eb4162c2de25415a7bee3bf8b75771d"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      0,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Arrow-00.png",
+        "frozen_sha256": "742565d08080b668deea3c9e30f2daf13856fc4a4dcc8e383be0d3a4f00b1eb6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "aa2380126e8f5cd0cf985e83f0895d2100ffbeb9988fd7f55529bc0bc80fbe36",
+        "symbol_rgba_sha256": "c5020add60a2d39d828508626597d7f417600f8f930ad6ad384c9725c7be43ac",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Arrow-01.png",
+        "frozen_sha256": "f348577b7a87e4b84977afffdda1d5d1e4429149917d6b233b1fd66d92485ca2",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "0d9808675025ad878e509904d9b26faf067582f2d665af8fe6fa878ab941684f",
+        "symbol_rgba_sha256": "c5020add60a2d39d828508626597d7f417600f8f930ad6ad384c9725c7be43ac",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Arrow-02.png",
+        "frozen_sha256": "ef95eb81603ce48dd69e8866a6cf4bb49bcbfb3d07bfaf95cad251bdd13510bb",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5e1028bd1a51b1f0aaf76e2b9ad2ed107a7b80a08b84a013994df61cf2edd81b",
+        "symbol_rgba_sha256": "c5020add60a2d39d828508626597d7f417600f8f930ad6ad384c9725c7be43ac",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Arrow-03.png",
+        "frozen_sha256": "f348577b7a87e4b84977afffdda1d5d1e4429149917d6b233b1fd66d92485ca2",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "0d9808675025ad878e509904d9b26faf067582f2d665af8fe6fa878ab941684f",
+        "symbol_rgba_sha256": "c5020add60a2d39d828508626597d7f417600f8f930ad6ad384c9725c7be43ac",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Arrow-04.png",
+        "frozen_sha256": "40e809916f0f43ffd66fd1642508d41c7829a65f22d3ed6c1eb01f4da9172a50",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "959bd2d8356953a6acbd9c94addd26857aae0b25814a8114057ff00bb43ce6ea",
+        "symbol_rgba_sha256": "c5020add60a2d39d828508626597d7f417600f8f930ad6ad384c9725c7be43ac",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Arrow-05.png",
+        "frozen_sha256": "33bc244c2b39a8bf8f281f097b41d1719eb4162c2de25415a7bee3bf8b75771d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c83cf8d9dfbaf32ea770f2255525ed6c1ec47957667ba4721817ec2a0ff27029",
+        "symbol_rgba_sha256": "c5020add60a2d39d828508626597d7f417600f8f930ad6ad384c9725c7be43ac",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Arrow-06.png",
+        "frozen_sha256": "07ad34c6346a74af6799ceb4668ecfdab512a8de286b9dc9e594dc187ce9856f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "513f5542033ad8093252c6b9341345e10fd931dd364bc37a6c5fcf83277024e3",
+        "symbol_rgba_sha256": "c5020add60a2d39d828508626597d7f417600f8f930ad6ad384c9725c7be43ac",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Arrow-07.png",
+        "frozen_sha256": "33bc244c2b39a8bf8f281f097b41d1719eb4162c2de25415a7bee3bf8b75771d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c83cf8d9dfbaf32ea770f2255525ed6c1ec47957667ba4721817ec2a0ff27029",
+        "symbol_rgba_sha256": "c5020add60a2d39d828508626597d7f417600f8f930ad6ad384c9725c7be43ac",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      21,
+      28
+    ]
+  },
+  {
+    "role": "Help",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      1,
+      2
+    ],
+    "symbol_hotspot": [
+      1,
+      3
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/Help",
+    "body_hashes": [
+      "a0ef9f2e09ae1828e5022812120c04c7f577f2d746b40ead1d8b987fc22dad56",
+      "e3768fac390eee61c6b8a13a3850e12b02873c345525342fbd7037ea7af031c4",
+      "f0437d7a52cf1402fe97cdd7e0a12547b961c39565b09250532e1d68ec857e86",
+      "e3768fac390eee61c6b8a13a3850e12b02873c345525342fbd7037ea7af031c4",
+      "f73b55f14bbd9d00650cc78aa685029d994b5202c0dac0cd1cc90f54b7291960",
+      "74a31432c4a4bd37982b8f6739a9a61aacf985e489517423dd84d6505500563d",
+      "cb32e0f215c4cdff6011c3c4d0334a1e7bd754ba88052daf5ccdf9a5aef45b32",
+      "74a31432c4a4bd37982b8f6739a9a61aacf985e489517423dd84d6505500563d"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "c987f2b4798c66839213ab41cc4a492af27a9551f3b059a57a16c75533cbe3ef",
+      "e1ad44f6ed4eb13cee69abef6df8a9d3ed174e098b094984bca13236cd8e78e0",
+      "78f29dfc303c933318aa54b2e16c8286cf9269cdda5020c94b7211e5a05ef191",
+      "e1ad44f6ed4eb13cee69abef6df8a9d3ed174e098b094984bca13236cd8e78e0",
+      "e32a3006a9a0a9240ed945a5a3bc75ab8f2bdd4ec396bcf2dccf7cbedcf0de76",
+      "af75eb55895ffb2926092229337fe11ccac510d6243b5b48400766752572145c",
+      "56098ddcd46dcdefc4bfce326732e2ed43af8ace1c7a31805ce7efe0d19c50c6",
+      "af75eb55895ffb2926092229337fe11ccac510d6243b5b48400766752572145c"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      0,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Help-00.png",
+        "frozen_sha256": "c987f2b4798c66839213ab41cc4a492af27a9551f3b059a57a16c75533cbe3ef",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a0ef9f2e09ae1828e5022812120c04c7f577f2d746b40ead1d8b987fc22dad56",
+        "symbol_rgba_sha256": "09ae69c2eaca3c285286e9a723e011fb2d29438a2b32347967687d2c72481fcb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Help-01.png",
+        "frozen_sha256": "e1ad44f6ed4eb13cee69abef6df8a9d3ed174e098b094984bca13236cd8e78e0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e3768fac390eee61c6b8a13a3850e12b02873c345525342fbd7037ea7af031c4",
+        "symbol_rgba_sha256": "09ae69c2eaca3c285286e9a723e011fb2d29438a2b32347967687d2c72481fcb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Help-02.png",
+        "frozen_sha256": "78f29dfc303c933318aa54b2e16c8286cf9269cdda5020c94b7211e5a05ef191",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f0437d7a52cf1402fe97cdd7e0a12547b961c39565b09250532e1d68ec857e86",
+        "symbol_rgba_sha256": "09ae69c2eaca3c285286e9a723e011fb2d29438a2b32347967687d2c72481fcb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Help-03.png",
+        "frozen_sha256": "e1ad44f6ed4eb13cee69abef6df8a9d3ed174e098b094984bca13236cd8e78e0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e3768fac390eee61c6b8a13a3850e12b02873c345525342fbd7037ea7af031c4",
+        "symbol_rgba_sha256": "09ae69c2eaca3c285286e9a723e011fb2d29438a2b32347967687d2c72481fcb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Help-04.png",
+        "frozen_sha256": "e32a3006a9a0a9240ed945a5a3bc75ab8f2bdd4ec396bcf2dccf7cbedcf0de76",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f73b55f14bbd9d00650cc78aa685029d994b5202c0dac0cd1cc90f54b7291960",
+        "symbol_rgba_sha256": "09ae69c2eaca3c285286e9a723e011fb2d29438a2b32347967687d2c72481fcb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Help-05.png",
+        "frozen_sha256": "af75eb55895ffb2926092229337fe11ccac510d6243b5b48400766752572145c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "74a31432c4a4bd37982b8f6739a9a61aacf985e489517423dd84d6505500563d",
+        "symbol_rgba_sha256": "09ae69c2eaca3c285286e9a723e011fb2d29438a2b32347967687d2c72481fcb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Help-06.png",
+        "frozen_sha256": "56098ddcd46dcdefc4bfce326732e2ed43af8ace1c7a31805ce7efe0d19c50c6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "cb32e0f215c4cdff6011c3c4d0334a1e7bd754ba88052daf5ccdf9a5aef45b32",
+        "symbol_rgba_sha256": "09ae69c2eaca3c285286e9a723e011fb2d29438a2b32347967687d2c72481fcb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Help-07.png",
+        "frozen_sha256": "af75eb55895ffb2926092229337fe11ccac510d6243b5b48400766752572145c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "74a31432c4a4bd37982b8f6739a9a61aacf985e489517423dd84d6505500563d",
+        "symbol_rgba_sha256": "09ae69c2eaca3c285286e9a723e011fb2d29438a2b32347967687d2c72481fcb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      27,
+      24
+    ]
+  },
+  {
+    "role": "AppStarting",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      1,
+      2
+    ],
+    "symbol_hotspot": [
+      1,
+      3
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/AppStarting",
+    "body_hashes": [
+      "f01b064cab901d165c9b0fc3b6eb3a8f1c00b82ee7be38e896684f8503997265",
+      "9c708224b2e394669f90901f334e0de0722d39697f644a8ffd4ba1609f1df914",
+      "e98b15bc2e1c4a4f44e56ad28879e61f8fa64733bdf67514c2e86802b11e6066",
+      "9c708224b2e394669f90901f334e0de0722d39697f644a8ffd4ba1609f1df914",
+      "0670ffafdc3bdef98b0a333f47bdae831afc5a93291184f756248ccdd8a942b7",
+      "bf96eaeda3968e248ee8c6bb82659f3a48767adee7ebd44d2f01fc1cbc93accc",
+      "b0eb613666bc25121191f22ad65d50f6f2ea16f2da933258295dac6c2a865304",
+      "bf96eaeda3968e248ee8c6bb82659f3a48767adee7ebd44d2f01fc1cbc93accc"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "be62ea1502631acb21014f0713bddff7a91e1cc527489247b3867988564d22a6",
+      "05553a8f2b3d8e20011d2f3a2e69e54dcec5a237d959de4f251f2dbbccd80dbf",
+      "b01c9b25e7cd043b2b40c4e7d11ac37703adfd5715e14c43f17aace0c95b4e16",
+      "e9f80157891247043061122a92a80e309e1551fb2e606b8dd697c830cac39d5a",
+      "e09c54da7c5d1861af46a37f7adad03ae8ca551429c808a1343127f5f0f356f9",
+      "4483e9fa5545eae2e33ae19cd373dd4080e75ff0eab6ddb3a069464069e31ca1",
+      "b396ebaca7fe543db7afda245dedc3ee18d5c9ded21cbe8f91dd735cfb1c7791",
+      "63a9c408ee1e0894e52a40a1b1c29d97f53a200d53f4e5d41dea8a49d96e8431"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      0,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\AppStarting-00.png",
+        "frozen_sha256": "be62ea1502631acb21014f0713bddff7a91e1cc527489247b3867988564d22a6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f01b064cab901d165c9b0fc3b6eb3a8f1c00b82ee7be38e896684f8503997265",
+        "symbol_rgba_sha256": "4158b35ad06ab893fb7f86ca6da47e5e4430f9ed7fe386a751d29d58894332df",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\AppStarting-01.png",
+        "frozen_sha256": "05553a8f2b3d8e20011d2f3a2e69e54dcec5a237d959de4f251f2dbbccd80dbf",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9c708224b2e394669f90901f334e0de0722d39697f644a8ffd4ba1609f1df914",
+        "symbol_rgba_sha256": "d1f1673b944dfe543baaf31633a49cf6c06535e735ffaa604a628fae74d60a1d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\AppStarting-02.png",
+        "frozen_sha256": "b01c9b25e7cd043b2b40c4e7d11ac37703adfd5715e14c43f17aace0c95b4e16",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e98b15bc2e1c4a4f44e56ad28879e61f8fa64733bdf67514c2e86802b11e6066",
+        "symbol_rgba_sha256": "1fdfaab2d234e99bd20c131e25aa19c0173630c812aea18eff809758b568148c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\AppStarting-03.png",
+        "frozen_sha256": "e9f80157891247043061122a92a80e309e1551fb2e606b8dd697c830cac39d5a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9c708224b2e394669f90901f334e0de0722d39697f644a8ffd4ba1609f1df914",
+        "symbol_rgba_sha256": "0d5fa78e4bd2f8a026d47b701b7750a52fc31bcf81e4721c5a9754eeeceb2b76",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\AppStarting-04.png",
+        "frozen_sha256": "e09c54da7c5d1861af46a37f7adad03ae8ca551429c808a1343127f5f0f356f9",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "0670ffafdc3bdef98b0a333f47bdae831afc5a93291184f756248ccdd8a942b7",
+        "symbol_rgba_sha256": "c54a7a11e48a6676a92935c049fa0287dbf6bfabf0ad40a9caf69015b775eb72",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\AppStarting-05.png",
+        "frozen_sha256": "4483e9fa5545eae2e33ae19cd373dd4080e75ff0eab6ddb3a069464069e31ca1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "bf96eaeda3968e248ee8c6bb82659f3a48767adee7ebd44d2f01fc1cbc93accc",
+        "symbol_rgba_sha256": "05ec41f5e41ef2f46eed71d7b7be8761c12484e34e08100da870686e51c7e0aa",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\AppStarting-06.png",
+        "frozen_sha256": "b396ebaca7fe543db7afda245dedc3ee18d5c9ded21cbe8f91dd735cfb1c7791",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b0eb613666bc25121191f22ad65d50f6f2ea16f2da933258295dac6c2a865304",
+        "symbol_rgba_sha256": "e5e60793bfbf5580e1b1dbad48f62f7aa7c3f8a60b5d1a22761a76f1ddc151aa",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\AppStarting-07.png",
+        "frozen_sha256": "63a9c408ee1e0894e52a40a1b1c29d97f53a200d53f4e5d41dea8a49d96e8431",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "bf96eaeda3968e248ee8c6bb82659f3a48767adee7ebd44d2f01fc1cbc93accc",
+        "symbol_rgba_sha256": "1a55506afc73034d6ace196d81368492ed6ebb4adeab76bd724acc3f829cd970",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      27,
+      23
+    ]
+  },
+  {
+    "role": "Wait",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      13,
+      13
+    ],
+    "symbol_hotspot": [
+      14,
+      14
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/Wait",
+    "body_hashes": [
+      "7cb22cff34024ea193fa29f3aa1b3f442258c2aef65e0938fc7619159d622a0e",
+      "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+      "ad701110b0085d0fa66eedfb14dfa2090c396afb40b6d8b1a93cc5e88fe1654c",
+      "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+      "bef78107d92133fe0de631b23818c706783f9030e69eee2d1d9d61704f95fef5",
+      "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450",
+      "b207b72f8f9db3d75fde1483c9815da20e543b6fe3a877bcc2b2bdfff5d45753",
+      "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "86d4f74f4a36b5a1fc4a220dba688ac745187ac3f1ab2ac067112133f25cd55f",
+      "c5a849fcddfd0e28035cd5f6fb0215aed9459bad79837e88a722d256f2f7636e",
+      "2641aa359b04da450c32b4df3d38cf9d8e27f002ce77cb35b727abf1bfe9b549",
+      "2bb6686d307c53e528d9f9788782cfb279769b472399b7151d1d79c7cc8aed3e",
+      "5a19b5ef07bee58292d6c7ad147f264caee8af54927b3603d127d09b04c1f725",
+      "2ddf54ff643fa1da084123312938a0c09833a7344eed267e28df6cf41e828681",
+      "fb1d62af2a4c6f4e9d64b04b54c548ea3588101af1c576e49ba610262c9603d1",
+      "3621034c71ee4be1c1551451e4cae0d23e19120a23b59f47a52e469ae34e890f"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Wait-00.png",
+        "frozen_sha256": "86d4f74f4a36b5a1fc4a220dba688ac745187ac3f1ab2ac067112133f25cd55f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7cb22cff34024ea193fa29f3aa1b3f442258c2aef65e0938fc7619159d622a0e",
+        "symbol_rgba_sha256": "a171014d842e3bf04c7ee1ab9b59e7227c21da9eaf95a0f4b9ccb09d328b5360",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Wait-01.png",
+        "frozen_sha256": "c5a849fcddfd0e28035cd5f6fb0215aed9459bad79837e88a722d256f2f7636e",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+        "symbol_rgba_sha256": "c69e05140477f2c23b5a290bede60815f5a6a018a1d9404fdc4ae88ff5c5b081",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Wait-02.png",
+        "frozen_sha256": "2641aa359b04da450c32b4df3d38cf9d8e27f002ce77cb35b727abf1bfe9b549",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ad701110b0085d0fa66eedfb14dfa2090c396afb40b6d8b1a93cc5e88fe1654c",
+        "symbol_rgba_sha256": "58c98e641298f6996266fd16a51169f037a1e492216b412bf0f18bcc802cf8e7",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Wait-03.png",
+        "frozen_sha256": "2bb6686d307c53e528d9f9788782cfb279769b472399b7151d1d79c7cc8aed3e",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+        "symbol_rgba_sha256": "693a2662fac29c2cb1ee100c7d06a4250c40c09a5b18eb0df133ba436fca3b3b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Wait-04.png",
+        "frozen_sha256": "5a19b5ef07bee58292d6c7ad147f264caee8af54927b3603d127d09b04c1f725",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "bef78107d92133fe0de631b23818c706783f9030e69eee2d1d9d61704f95fef5",
+        "symbol_rgba_sha256": "adc3540a517dc408533e5d36f48f442b0029cf889057b5f16fba45ab6783d1c3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Wait-05.png",
+        "frozen_sha256": "2ddf54ff643fa1da084123312938a0c09833a7344eed267e28df6cf41e828681",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450",
+        "symbol_rgba_sha256": "e643f4913b92c1dc52db3086e6c51db85919c7953e190eb374b3dbd00d240667",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Wait-06.png",
+        "frozen_sha256": "fb1d62af2a4c6f4e9d64b04b54c548ea3588101af1c576e49ba610262c9603d1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b207b72f8f9db3d75fde1483c9815da20e543b6fe3a877bcc2b2bdfff5d45753",
+        "symbol_rgba_sha256": "84d49e38ef9a17508686fa337ec7d2da793878c39cf931311d06b7b66a3041f9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Wait-07.png",
+        "frozen_sha256": "3621034c71ee4be1c1551451e4cae0d23e19120a23b59f47a52e469ae34e890f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450",
+        "symbol_rgba_sha256": "b12a2fd2034891c8a3f7ef16fda87f1ee11df1cebb6c88d3af356c76f6cc042b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      28,
+      28
+    ]
+  },
+  {
+    "role": "Crosshair",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      13,
+      13
+    ],
+    "symbol_hotspot": [
+      13,
+      13
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/Crosshair",
+    "body_hashes": [
+      "a0ef9f2e09ae1828e5022812120c04c7f577f2d746b40ead1d8b987fc22dad56",
+      "e3768fac390eee61c6b8a13a3850e12b02873c345525342fbd7037ea7af031c4",
+      "f0437d7a52cf1402fe97cdd7e0a12547b961c39565b09250532e1d68ec857e86",
+      "e3768fac390eee61c6b8a13a3850e12b02873c345525342fbd7037ea7af031c4",
+      "f73b55f14bbd9d00650cc78aa685029d994b5202c0dac0cd1cc90f54b7291960",
+      "74a31432c4a4bd37982b8f6739a9a61aacf985e489517423dd84d6505500563d",
+      "cb32e0f215c4cdff6011c3c4d0334a1e7bd754ba88052daf5ccdf9a5aef45b32",
+      "74a31432c4a4bd37982b8f6739a9a61aacf985e489517423dd84d6505500563d"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "2995e3bda70ebaee941d83aab3d31224b14e729e06a3e5cbb66eb46c6fbf02eb",
+      "c02afc2b13ccc97f2c9872d6c8bc73a50a9310e34d01f0f13f91bd50de0c4747",
+      "3c96bb8e97f6e82093b7adf58cfa0d41059da6a25289cbd0c869d2fcd941f1c8",
+      "c02afc2b13ccc97f2c9872d6c8bc73a50a9310e34d01f0f13f91bd50de0c4747",
+      "ed55bc12e9b5679ea9e2acdf6e398169e200ee13e06ef948fe903db600b1b096",
+      "ff4a35a299f41c61aeb5a5af31aa90f893642fd90e9533e588616ebdbafdd59c",
+      "9cceca728b80223d6a513de94f0c7e046f4ade8bc847c25e0acc827d58bd527d",
+      "ff4a35a299f41c61aeb5a5af31aa90f893642fd90e9533e588616ebdbafdd59c"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      0,
+      0
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Crosshair-00.png",
+        "frozen_sha256": "2995e3bda70ebaee941d83aab3d31224b14e729e06a3e5cbb66eb46c6fbf02eb",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a0ef9f2e09ae1828e5022812120c04c7f577f2d746b40ead1d8b987fc22dad56",
+        "symbol_rgba_sha256": "e2c4e23d4ef4dec049b22f662f7fd81ff29cb5d5021049ee834e3fb932b9c2ff",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Crosshair-01.png",
+        "frozen_sha256": "c02afc2b13ccc97f2c9872d6c8bc73a50a9310e34d01f0f13f91bd50de0c4747",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e3768fac390eee61c6b8a13a3850e12b02873c345525342fbd7037ea7af031c4",
+        "symbol_rgba_sha256": "e2c4e23d4ef4dec049b22f662f7fd81ff29cb5d5021049ee834e3fb932b9c2ff",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Crosshair-02.png",
+        "frozen_sha256": "3c96bb8e97f6e82093b7adf58cfa0d41059da6a25289cbd0c869d2fcd941f1c8",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f0437d7a52cf1402fe97cdd7e0a12547b961c39565b09250532e1d68ec857e86",
+        "symbol_rgba_sha256": "e2c4e23d4ef4dec049b22f662f7fd81ff29cb5d5021049ee834e3fb932b9c2ff",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Crosshair-03.png",
+        "frozen_sha256": "c02afc2b13ccc97f2c9872d6c8bc73a50a9310e34d01f0f13f91bd50de0c4747",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e3768fac390eee61c6b8a13a3850e12b02873c345525342fbd7037ea7af031c4",
+        "symbol_rgba_sha256": "e2c4e23d4ef4dec049b22f662f7fd81ff29cb5d5021049ee834e3fb932b9c2ff",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Crosshair-04.png",
+        "frozen_sha256": "ed55bc12e9b5679ea9e2acdf6e398169e200ee13e06ef948fe903db600b1b096",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f73b55f14bbd9d00650cc78aa685029d994b5202c0dac0cd1cc90f54b7291960",
+        "symbol_rgba_sha256": "e2c4e23d4ef4dec049b22f662f7fd81ff29cb5d5021049ee834e3fb932b9c2ff",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Crosshair-05.png",
+        "frozen_sha256": "ff4a35a299f41c61aeb5a5af31aa90f893642fd90e9533e588616ebdbafdd59c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "74a31432c4a4bd37982b8f6739a9a61aacf985e489517423dd84d6505500563d",
+        "symbol_rgba_sha256": "e2c4e23d4ef4dec049b22f662f7fd81ff29cb5d5021049ee834e3fb932b9c2ff",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Crosshair-06.png",
+        "frozen_sha256": "9cceca728b80223d6a513de94f0c7e046f4ade8bc847c25e0acc827d58bd527d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "cb32e0f215c4cdff6011c3c4d0334a1e7bd754ba88052daf5ccdf9a5aef45b32",
+        "symbol_rgba_sha256": "e2c4e23d4ef4dec049b22f662f7fd81ff29cb5d5021049ee834e3fb932b9c2ff",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Crosshair-07.png",
+        "frozen_sha256": "ff4a35a299f41c61aeb5a5af31aa90f893642fd90e9533e588616ebdbafdd59c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "74a31432c4a4bd37982b8f6739a9a61aacf985e489517423dd84d6505500563d",
+        "symbol_rgba_sha256": "e2c4e23d4ef4dec049b22f662f7fd81ff29cb5d5021049ee834e3fb932b9c2ff",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      27,
+      27
+    ]
+  },
+  {
+    "role": "IBeam",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      6,
+      13
+    ],
+    "symbol_hotspot": [
+      6,
+      13
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/IBeam",
+    "body_hashes": [
+      "7cb22cff34024ea193fa29f3aa1b3f442258c2aef65e0938fc7619159d622a0e",
+      "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+      "ad701110b0085d0fa66eedfb14dfa2090c396afb40b6d8b1a93cc5e88fe1654c",
+      "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+      "bef78107d92133fe0de631b23818c706783f9030e69eee2d1d9d61704f95fef5",
+      "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450",
+      "b207b72f8f9db3d75fde1483c9815da20e543b6fe3a877bcc2b2bdfff5d45753",
+      "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "a3c9be32cd165d6ff987efebac39d57a64d77b4cd090552500cedbc5c373c23d",
+      "e48d05c51b3b00f78f8d3ee6cf831317f2e2d2803772f1127f480190498718fc",
+      "cf77b058c0b5000cd9b671ebe32d315a98cbdd6b1fac583f47c7745cfc8d25e9",
+      "e48d05c51b3b00f78f8d3ee6cf831317f2e2d2803772f1127f480190498718fc",
+      "f826f06a0959146ef339e95df2732fb2d6dfd515ed51414770dd04f39ae9fa8a",
+      "61020e64794846be89ae47416b561e30fc0a2d932d88444724817bf0fbe070f5",
+      "60fb53d546f031900a4ec676f2ef4ca08da31fba3dd098ce529fbb8372954c70",
+      "61020e64794846be89ae47416b561e30fc0a2d932d88444724817bf0fbe070f5"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      0,
+      0
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\IBeam-00.png",
+        "frozen_sha256": "a3c9be32cd165d6ff987efebac39d57a64d77b4cd090552500cedbc5c373c23d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7cb22cff34024ea193fa29f3aa1b3f442258c2aef65e0938fc7619159d622a0e",
+        "symbol_rgba_sha256": "7686ab889d3a0adcd5f0883d03a73ca89f6f24fc7927068b0d360268252abff2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\IBeam-01.png",
+        "frozen_sha256": "e48d05c51b3b00f78f8d3ee6cf831317f2e2d2803772f1127f480190498718fc",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+        "symbol_rgba_sha256": "7686ab889d3a0adcd5f0883d03a73ca89f6f24fc7927068b0d360268252abff2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\IBeam-02.png",
+        "frozen_sha256": "cf77b058c0b5000cd9b671ebe32d315a98cbdd6b1fac583f47c7745cfc8d25e9",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ad701110b0085d0fa66eedfb14dfa2090c396afb40b6d8b1a93cc5e88fe1654c",
+        "symbol_rgba_sha256": "7686ab889d3a0adcd5f0883d03a73ca89f6f24fc7927068b0d360268252abff2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\IBeam-03.png",
+        "frozen_sha256": "e48d05c51b3b00f78f8d3ee6cf831317f2e2d2803772f1127f480190498718fc",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+        "symbol_rgba_sha256": "7686ab889d3a0adcd5f0883d03a73ca89f6f24fc7927068b0d360268252abff2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\IBeam-04.png",
+        "frozen_sha256": "f826f06a0959146ef339e95df2732fb2d6dfd515ed51414770dd04f39ae9fa8a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "bef78107d92133fe0de631b23818c706783f9030e69eee2d1d9d61704f95fef5",
+        "symbol_rgba_sha256": "7686ab889d3a0adcd5f0883d03a73ca89f6f24fc7927068b0d360268252abff2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\IBeam-05.png",
+        "frozen_sha256": "61020e64794846be89ae47416b561e30fc0a2d932d88444724817bf0fbe070f5",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450",
+        "symbol_rgba_sha256": "7686ab889d3a0adcd5f0883d03a73ca89f6f24fc7927068b0d360268252abff2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\IBeam-06.png",
+        "frozen_sha256": "60fb53d546f031900a4ec676f2ef4ca08da31fba3dd098ce529fbb8372954c70",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b207b72f8f9db3d75fde1483c9815da20e543b6fe3a877bcc2b2bdfff5d45753",
+        "symbol_rgba_sha256": "7686ab889d3a0adcd5f0883d03a73ca89f6f24fc7927068b0d360268252abff2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\IBeam-07.png",
+        "frozen_sha256": "61020e64794846be89ae47416b561e30fc0a2d932d88444724817bf0fbe070f5",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450",
+        "symbol_rgba_sha256": "7686ab889d3a0adcd5f0883d03a73ca89f6f24fc7927068b0d360268252abff2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      14,
+      27
+    ]
+  },
+  {
+    "role": "NWPen",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      2,
+      24
+    ],
+    "symbol_hotspot": [
+      3,
+      25
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/NWPen",
+    "body_hashes": [
+      "7cb22cff34024ea193fa29f3aa1b3f442258c2aef65e0938fc7619159d622a0e",
+      "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+      "ad701110b0085d0fa66eedfb14dfa2090c396afb40b6d8b1a93cc5e88fe1654c",
+      "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+      "bef78107d92133fe0de631b23818c706783f9030e69eee2d1d9d61704f95fef5",
+      "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450",
+      "b207b72f8f9db3d75fde1483c9815da20e543b6fe3a877bcc2b2bdfff5d45753",
+      "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "1a3167b8a8a52d6e9425fb06370f186d4725c7bb7791d5f347f776b6eb04ef36",
+      "96d41327d9c73e3c1c4e884199b83152fc5f3cfcf010e43627087e646f512215",
+      "ad8b0155764887684d4546f949ffdf18e4da2d4267a18e5743d9addc263c8da2",
+      "96d41327d9c73e3c1c4e884199b83152fc5f3cfcf010e43627087e646f512215",
+      "6b9804cdbebef43dbc6f9ae8035ac9d621bfdc101dcc6c64938733b2a39ad81c",
+      "487a14209e7b4a9b0bf6e13106f1e372e61fe7fac666762e2f4d0ff73b0e099b",
+      "1ca10d00a71eccfa4d418d7f5351161a6b1ac9c3592976abd432e05f2f6a0818",
+      "487a14209e7b4a9b0bf6e13106f1e372e61fe7fac666762e2f4d0ff73b0e099b"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\NWPen-00.png",
+        "frozen_sha256": "1a3167b8a8a52d6e9425fb06370f186d4725c7bb7791d5f347f776b6eb04ef36",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7cb22cff34024ea193fa29f3aa1b3f442258c2aef65e0938fc7619159d622a0e",
+        "symbol_rgba_sha256": "e97ddb4fe40ec994039b8adbde3e3866b432631fc63b565336f2d1149494aec3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\NWPen-01.png",
+        "frozen_sha256": "96d41327d9c73e3c1c4e884199b83152fc5f3cfcf010e43627087e646f512215",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+        "symbol_rgba_sha256": "e97ddb4fe40ec994039b8adbde3e3866b432631fc63b565336f2d1149494aec3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\NWPen-02.png",
+        "frozen_sha256": "ad8b0155764887684d4546f949ffdf18e4da2d4267a18e5743d9addc263c8da2",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ad701110b0085d0fa66eedfb14dfa2090c396afb40b6d8b1a93cc5e88fe1654c",
+        "symbol_rgba_sha256": "e97ddb4fe40ec994039b8adbde3e3866b432631fc63b565336f2d1149494aec3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\NWPen-03.png",
+        "frozen_sha256": "96d41327d9c73e3c1c4e884199b83152fc5f3cfcf010e43627087e646f512215",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8320eba97c3667e078f1f9190cda6c8fcf180867e8eb5ed035421764ae1da8f7",
+        "symbol_rgba_sha256": "e97ddb4fe40ec994039b8adbde3e3866b432631fc63b565336f2d1149494aec3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\NWPen-04.png",
+        "frozen_sha256": "6b9804cdbebef43dbc6f9ae8035ac9d621bfdc101dcc6c64938733b2a39ad81c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "bef78107d92133fe0de631b23818c706783f9030e69eee2d1d9d61704f95fef5",
+        "symbol_rgba_sha256": "e97ddb4fe40ec994039b8adbde3e3866b432631fc63b565336f2d1149494aec3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\NWPen-05.png",
+        "frozen_sha256": "487a14209e7b4a9b0bf6e13106f1e372e61fe7fac666762e2f4d0ff73b0e099b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450",
+        "symbol_rgba_sha256": "e97ddb4fe40ec994039b8adbde3e3866b432631fc63b565336f2d1149494aec3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\NWPen-06.png",
+        "frozen_sha256": "1ca10d00a71eccfa4d418d7f5351161a6b1ac9c3592976abd432e05f2f6a0818",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b207b72f8f9db3d75fde1483c9815da20e543b6fe3a877bcc2b2bdfff5d45753",
+        "symbol_rgba_sha256": "e97ddb4fe40ec994039b8adbde3e3866b432631fc63b565336f2d1149494aec3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\NWPen-07.png",
+        "frozen_sha256": "487a14209e7b4a9b0bf6e13106f1e372e61fe7fac666762e2f4d0ff73b0e099b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "131ff03c026fc562c39409653267beda48d0696113a17b9cc2a448de61fc7450",
+        "symbol_rgba_sha256": "e97ddb4fe40ec994039b8adbde3e3866b432631fc63b565336f2d1149494aec3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      28,
+      28
+    ]
+  },
+  {
+    "role": "No",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      13,
+      13
+    ],
+    "symbol_hotspot": [
+      14,
+      14
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/No",
+    "body_hashes": [
+      "7f068d8547c61cc73ac7ecf6417661698e27891f9ee634b5dc07a0b9bbe53bee",
+      "d8d496a50abb816f1b1d43645177582761a8cb25aacb7d0c4c08806520a3fdfe",
+      "fc9d0ba03783d719967c7465fc7b519f4f7d0330894ae2c0454a0d71458ceecc",
+      "d8d496a50abb816f1b1d43645177582761a8cb25aacb7d0c4c08806520a3fdfe",
+      "9a1660e94d4dc5dccf77a368cc13359c6c49be0cb739a72a1251ca54bc329504",
+      "4444802da56d892b73b67b12c46f6630488d3676b9942d020452776f6c17550a",
+      "39f84374e813e5cfc1de4e375589f80dd8265df69a1867c0b6f64c529adae720",
+      "4444802da56d892b73b67b12c46f6630488d3676b9942d020452776f6c17550a"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "c75592a0d0956cb0d924ba0400f4885843f1961c490eb7714a0016beea35e7a6",
+      "fc80944640bdebd8ab38fc9b0fdfed2d03503f6a1f23efa14cfa20d38584d9d0",
+      "771f32ef014882ad6cd4c82d9968eceb593028aa9909aff6e7c063bd0a3d2e92",
+      "fc80944640bdebd8ab38fc9b0fdfed2d03503f6a1f23efa14cfa20d38584d9d0",
+      "0fc8793f36fa44d2e7a6b6ffddf0dc505a78ff1e1c1e90caa2a4559368570ace",
+      "e5d7d6a396f87da482d6a09daef5769718017ac1d9257ef35b37e5030491c5e8",
+      "2d8a221c30c431da2de634afd5ecd38e51cf0f9cead33536635b546061954fa6",
+      "e5d7d6a396f87da482d6a09daef5769718017ac1d9257ef35b37e5030491c5e8"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\No-00.png",
+        "frozen_sha256": "c75592a0d0956cb0d924ba0400f4885843f1961c490eb7714a0016beea35e7a6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7f068d8547c61cc73ac7ecf6417661698e27891f9ee634b5dc07a0b9bbe53bee",
+        "symbol_rgba_sha256": "07d934a0d88e1a81859931a668391db572d60470ce0c800fdb3f84f619e6c50e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\No-01.png",
+        "frozen_sha256": "fc80944640bdebd8ab38fc9b0fdfed2d03503f6a1f23efa14cfa20d38584d9d0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d8d496a50abb816f1b1d43645177582761a8cb25aacb7d0c4c08806520a3fdfe",
+        "symbol_rgba_sha256": "07d934a0d88e1a81859931a668391db572d60470ce0c800fdb3f84f619e6c50e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 8,
+        "separate_layers_max_channel_delta": 254,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\No-02.png",
+        "frozen_sha256": "771f32ef014882ad6cd4c82d9968eceb593028aa9909aff6e7c063bd0a3d2e92",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "fc9d0ba03783d719967c7465fc7b519f4f7d0330894ae2c0454a0d71458ceecc",
+        "symbol_rgba_sha256": "07d934a0d88e1a81859931a668391db572d60470ce0c800fdb3f84f619e6c50e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 12,
+        "separate_layers_max_channel_delta": 85,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\No-03.png",
+        "frozen_sha256": "fc80944640bdebd8ab38fc9b0fdfed2d03503f6a1f23efa14cfa20d38584d9d0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d8d496a50abb816f1b1d43645177582761a8cb25aacb7d0c4c08806520a3fdfe",
+        "symbol_rgba_sha256": "07d934a0d88e1a81859931a668391db572d60470ce0c800fdb3f84f619e6c50e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 8,
+        "separate_layers_max_channel_delta": 254,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\No-04.png",
+        "frozen_sha256": "0fc8793f36fa44d2e7a6b6ffddf0dc505a78ff1e1c1e90caa2a4559368570ace",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9a1660e94d4dc5dccf77a368cc13359c6c49be0cb739a72a1251ca54bc329504",
+        "symbol_rgba_sha256": "07d934a0d88e1a81859931a668391db572d60470ce0c800fdb3f84f619e6c50e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 3,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\No-05.png",
+        "frozen_sha256": "e5d7d6a396f87da482d6a09daef5769718017ac1d9257ef35b37e5030491c5e8",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4444802da56d892b73b67b12c46f6630488d3676b9942d020452776f6c17550a",
+        "symbol_rgba_sha256": "07d934a0d88e1a81859931a668391db572d60470ce0c800fdb3f84f619e6c50e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 2,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\No-06.png",
+        "frozen_sha256": "2d8a221c30c431da2de634afd5ecd38e51cf0f9cead33536635b546061954fa6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "39f84374e813e5cfc1de4e375589f80dd8265df69a1867c0b6f64c529adae720",
+        "symbol_rgba_sha256": "07d934a0d88e1a81859931a668391db572d60470ce0c800fdb3f84f619e6c50e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 1,
+        "separate_layers_max_channel_delta": 85,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\No-07.png",
+        "frozen_sha256": "e5d7d6a396f87da482d6a09daef5769718017ac1d9257ef35b37e5030491c5e8",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4444802da56d892b73b67b12c46f6630488d3676b9942d020452776f6c17550a",
+        "symbol_rgba_sha256": "07d934a0d88e1a81859931a668391db572d60470ce0c800fdb3f84f619e6c50e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 2,
+        "separate_layers_max_channel_delta": 127,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      28,
+      28
+    ]
+  },
+  {
+    "role": "SizeNS",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      5,
+      13
+    ],
+    "symbol_hotspot": [
+      6,
+      13
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/SizeNS",
+    "body_hashes": [
+      "36b6fee7532d646f1908c21dc1736b0c9c0b5cfb79a5b6328c382eb77facbf0e",
+      "fe7ba9a6fd57a4d6133924cf07215fb5a24a92aca831953c0d497b583d4ce3a0",
+      "965647db084bdc4de72878fa5810d095c5d60858cbee5aeccd3c1b4105680d03",
+      "f27aa821c3e375562f3e1aad34be2895f7672cc05a0183daac8733181ddda7d2",
+      "4caaac2dd4aae2a554c23ecbbe8eec595c800b8d225e3f1dbde3ed9b355081eb",
+      "833b7b8644a43fa088cbcc810d278e8205c0021867eed4d132b4588adf8b3e57",
+      "949926719678459307eb3e3edb02d6dd30ba4e99e7cbc7f62ddc5967ca7ce3d3",
+      "7e3ff5d71e258c065d213281b2f0a7316bf3b4f26323423c7eacb385958b3afe"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "b0d1c51cf6c02e06ff985a94da4b4db2fdd8ef341c7e726702dc1885eaf9130a",
+      "87677d90fd58ee9755fed1bbcbfbd42841d8187b65ad209d66e9f6be97f5cbca",
+      "5f2d5c6b365d41d717d55b06bf3ecae6f005fc2b17e12c207aa79939832cff85",
+      "44b326641481f82eb8b1d9c01f527a0e7f2b54d5994d2fa7df343086bcb1d2d9",
+      "2d48422d36b30e343f97264ca5b062f3ed3981c6ac84b446dd48b202cf641468",
+      "53d6b0e61f918da14207b28ea1ec2df85cc833aa1516dca08c2bb0b38fb3d8a3",
+      "9d14aef7c7639cd80716056114d1345645929c1c24b3f3f3a0c2c40691f21b30",
+      "4e2e8602972fb1595e31dc4ff034f4896815860f2f00ad013876bd8ef4da8357"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      0
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNS-00.png",
+        "frozen_sha256": "b0d1c51cf6c02e06ff985a94da4b4db2fdd8ef341c7e726702dc1885eaf9130a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "36b6fee7532d646f1908c21dc1736b0c9c0b5cfb79a5b6328c382eb77facbf0e",
+        "symbol_rgba_sha256": "3a38a905ce58ac0396284cea132a7ba1faceabcc049a3923bf46af9fa8bceb80",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNS-01.png",
+        "frozen_sha256": "87677d90fd58ee9755fed1bbcbfbd42841d8187b65ad209d66e9f6be97f5cbca",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "fe7ba9a6fd57a4d6133924cf07215fb5a24a92aca831953c0d497b583d4ce3a0",
+        "symbol_rgba_sha256": "3a38a905ce58ac0396284cea132a7ba1faceabcc049a3923bf46af9fa8bceb80",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNS-02.png",
+        "frozen_sha256": "5f2d5c6b365d41d717d55b06bf3ecae6f005fc2b17e12c207aa79939832cff85",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "965647db084bdc4de72878fa5810d095c5d60858cbee5aeccd3c1b4105680d03",
+        "symbol_rgba_sha256": "3a38a905ce58ac0396284cea132a7ba1faceabcc049a3923bf46af9fa8bceb80",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNS-03.png",
+        "frozen_sha256": "44b326641481f82eb8b1d9c01f527a0e7f2b54d5994d2fa7df343086bcb1d2d9",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f27aa821c3e375562f3e1aad34be2895f7672cc05a0183daac8733181ddda7d2",
+        "symbol_rgba_sha256": "3a38a905ce58ac0396284cea132a7ba1faceabcc049a3923bf46af9fa8bceb80",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNS-04.png",
+        "frozen_sha256": "2d48422d36b30e343f97264ca5b062f3ed3981c6ac84b446dd48b202cf641468",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4caaac2dd4aae2a554c23ecbbe8eec595c800b8d225e3f1dbde3ed9b355081eb",
+        "symbol_rgba_sha256": "3a38a905ce58ac0396284cea132a7ba1faceabcc049a3923bf46af9fa8bceb80",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNS-05.png",
+        "frozen_sha256": "53d6b0e61f918da14207b28ea1ec2df85cc833aa1516dca08c2bb0b38fb3d8a3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "833b7b8644a43fa088cbcc810d278e8205c0021867eed4d132b4588adf8b3e57",
+        "symbol_rgba_sha256": "3a38a905ce58ac0396284cea132a7ba1faceabcc049a3923bf46af9fa8bceb80",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNS-06.png",
+        "frozen_sha256": "9d14aef7c7639cd80716056114d1345645929c1c24b3f3f3a0c2c40691f21b30",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "949926719678459307eb3e3edb02d6dd30ba4e99e7cbc7f62ddc5967ca7ce3d3",
+        "symbol_rgba_sha256": "3a38a905ce58ac0396284cea132a7ba1faceabcc049a3923bf46af9fa8bceb80",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNS-07.png",
+        "frozen_sha256": "4e2e8602972fb1595e31dc4ff034f4896815860f2f00ad013876bd8ef4da8357",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7e3ff5d71e258c065d213281b2f0a7316bf3b4f26323423c7eacb385958b3afe",
+        "symbol_rgba_sha256": "3a38a905ce58ac0396284cea132a7ba1faceabcc049a3923bf46af9fa8bceb80",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      13,
+      27
+    ]
+  },
+  {
+    "role": "SizeWE",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      13,
+      5
+    ],
+    "symbol_hotspot": [
+      13,
+      6
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/SizeWE",
+    "body_hashes": [
+      "d33a522cd5d99c905c1535e73d61d7a3ed8480a438f3f4ddb64acad2c5748391",
+      "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+      "2e92d3029b552b4609fc5bba31b1c0ae0a71ee800d7fa999c980d9961b76f62c",
+      "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+      "b1ee0109d28a827e5bc3af07116e0eb66d617ff711864109479ddbd6d08e3081",
+      "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa",
+      "e1e136cf94fd71436876f0287cf9ee40850c66daac0bf21e3540673d19157613",
+      "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "1261adda31d2f421985240c2aa042d0db2b80578931c7786b6f6ed684fd19736",
+      "3a6ea0cbc5303e05dad827bece9bd38c4939b9e2e18db28d4b7ab8d0732e0a10",
+      "1c4bff24125ebc27c3a51bb73728903992fc7e452c13622cd5723f0d64f61fd8",
+      "3a6ea0cbc5303e05dad827bece9bd38c4939b9e2e18db28d4b7ab8d0732e0a10",
+      "97ad3f113abbc117c4c701323ae6a2046512096799efb053f26280eaf54ea52f",
+      "28c5990ffc8c4f4270253372d88d285170cf1e859527d2c948fed2b415002e3f",
+      "3bc36ccbd9812fd3a74055d2fd6badb8095e25e9205b058f15a948c49b335369",
+      "28c5990ffc8c4f4270253372d88d285170cf1e859527d2c948fed2b415002e3f"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      0,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeWE-00.png",
+        "frozen_sha256": "1261adda31d2f421985240c2aa042d0db2b80578931c7786b6f6ed684fd19736",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d33a522cd5d99c905c1535e73d61d7a3ed8480a438f3f4ddb64acad2c5748391",
+        "symbol_rgba_sha256": "ab22e53dd2743219e47d9bee9cd4746057769a5c133ae749fc14560cc5e3fca8",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeWE-01.png",
+        "frozen_sha256": "3a6ea0cbc5303e05dad827bece9bd38c4939b9e2e18db28d4b7ab8d0732e0a10",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+        "symbol_rgba_sha256": "ab22e53dd2743219e47d9bee9cd4746057769a5c133ae749fc14560cc5e3fca8",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeWE-02.png",
+        "frozen_sha256": "1c4bff24125ebc27c3a51bb73728903992fc7e452c13622cd5723f0d64f61fd8",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "2e92d3029b552b4609fc5bba31b1c0ae0a71ee800d7fa999c980d9961b76f62c",
+        "symbol_rgba_sha256": "ab22e53dd2743219e47d9bee9cd4746057769a5c133ae749fc14560cc5e3fca8",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeWE-03.png",
+        "frozen_sha256": "3a6ea0cbc5303e05dad827bece9bd38c4939b9e2e18db28d4b7ab8d0732e0a10",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+        "symbol_rgba_sha256": "ab22e53dd2743219e47d9bee9cd4746057769a5c133ae749fc14560cc5e3fca8",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeWE-04.png",
+        "frozen_sha256": "97ad3f113abbc117c4c701323ae6a2046512096799efb053f26280eaf54ea52f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b1ee0109d28a827e5bc3af07116e0eb66d617ff711864109479ddbd6d08e3081",
+        "symbol_rgba_sha256": "ab22e53dd2743219e47d9bee9cd4746057769a5c133ae749fc14560cc5e3fca8",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeWE-05.png",
+        "frozen_sha256": "28c5990ffc8c4f4270253372d88d285170cf1e859527d2c948fed2b415002e3f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa",
+        "symbol_rgba_sha256": "ab22e53dd2743219e47d9bee9cd4746057769a5c133ae749fc14560cc5e3fca8",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeWE-06.png",
+        "frozen_sha256": "3bc36ccbd9812fd3a74055d2fd6badb8095e25e9205b058f15a948c49b335369",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e1e136cf94fd71436876f0287cf9ee40850c66daac0bf21e3540673d19157613",
+        "symbol_rgba_sha256": "ab22e53dd2743219e47d9bee9cd4746057769a5c133ae749fc14560cc5e3fca8",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeWE-07.png",
+        "frozen_sha256": "28c5990ffc8c4f4270253372d88d285170cf1e859527d2c948fed2b415002e3f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa",
+        "symbol_rgba_sha256": "ab22e53dd2743219e47d9bee9cd4746057769a5c133ae749fc14560cc5e3fca8",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      27,
+      13
+    ]
+  },
+  {
+    "role": "SizeNWSE",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      13,
+      13
+    ],
+    "symbol_hotspot": [
+      14,
+      14
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/SizeNWSE",
+    "body_hashes": [
+      "d33a522cd5d99c905c1535e73d61d7a3ed8480a438f3f4ddb64acad2c5748391",
+      "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+      "2e92d3029b552b4609fc5bba31b1c0ae0a71ee800d7fa999c980d9961b76f62c",
+      "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+      "b1ee0109d28a827e5bc3af07116e0eb66d617ff711864109479ddbd6d08e3081",
+      "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa",
+      "e1e136cf94fd71436876f0287cf9ee40850c66daac0bf21e3540673d19157613",
+      "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "ad5f6770a4d9d131bd1bb9cd4adeb01252bb3933c202e4d390211bfc8e806519",
+      "b0108846f84564c5d968cbddde73f523c186f9ea11422934e7aa9b64ead7ae69",
+      "ef88fb520383cc71211c59cef1132b30c328659ebf77062f0374c01eeee29c88",
+      "b0108846f84564c5d968cbddde73f523c186f9ea11422934e7aa9b64ead7ae69",
+      "77114c2ef16c0a0c4bb84fb6bb96c5fbb3e1e816da38a7335eac42e61fbea3c8",
+      "02b838a3fea504530f949661daf3c9824607aab2b7d358ed32b289038e3d78c6",
+      "9a8bfe257699fb129f32d6ef1d1a15b9b863e799a2f4d48cf02af17cd88a2306",
+      "02b838a3fea504530f949661daf3c9824607aab2b7d358ed32b289038e3d78c6"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNWSE-00.png",
+        "frozen_sha256": "ad5f6770a4d9d131bd1bb9cd4adeb01252bb3933c202e4d390211bfc8e806519",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d33a522cd5d99c905c1535e73d61d7a3ed8480a438f3f4ddb64acad2c5748391",
+        "symbol_rgba_sha256": "81fb0db7a55f45578d484d2db038179684bed9cb0b37793706fec08d93ce6502",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNWSE-01.png",
+        "frozen_sha256": "b0108846f84564c5d968cbddde73f523c186f9ea11422934e7aa9b64ead7ae69",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+        "symbol_rgba_sha256": "81fb0db7a55f45578d484d2db038179684bed9cb0b37793706fec08d93ce6502",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNWSE-02.png",
+        "frozen_sha256": "ef88fb520383cc71211c59cef1132b30c328659ebf77062f0374c01eeee29c88",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "2e92d3029b552b4609fc5bba31b1c0ae0a71ee800d7fa999c980d9961b76f62c",
+        "symbol_rgba_sha256": "81fb0db7a55f45578d484d2db038179684bed9cb0b37793706fec08d93ce6502",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNWSE-03.png",
+        "frozen_sha256": "b0108846f84564c5d968cbddde73f523c186f9ea11422934e7aa9b64ead7ae69",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+        "symbol_rgba_sha256": "81fb0db7a55f45578d484d2db038179684bed9cb0b37793706fec08d93ce6502",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNWSE-04.png",
+        "frozen_sha256": "77114c2ef16c0a0c4bb84fb6bb96c5fbb3e1e816da38a7335eac42e61fbea3c8",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b1ee0109d28a827e5bc3af07116e0eb66d617ff711864109479ddbd6d08e3081",
+        "symbol_rgba_sha256": "81fb0db7a55f45578d484d2db038179684bed9cb0b37793706fec08d93ce6502",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNWSE-05.png",
+        "frozen_sha256": "02b838a3fea504530f949661daf3c9824607aab2b7d358ed32b289038e3d78c6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa",
+        "symbol_rgba_sha256": "81fb0db7a55f45578d484d2db038179684bed9cb0b37793706fec08d93ce6502",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNWSE-06.png",
+        "frozen_sha256": "9a8bfe257699fb129f32d6ef1d1a15b9b863e799a2f4d48cf02af17cd88a2306",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e1e136cf94fd71436876f0287cf9ee40850c66daac0bf21e3540673d19157613",
+        "symbol_rgba_sha256": "81fb0db7a55f45578d484d2db038179684bed9cb0b37793706fec08d93ce6502",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNWSE-07.png",
+        "frozen_sha256": "02b838a3fea504530f949661daf3c9824607aab2b7d358ed32b289038e3d78c6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa",
+        "symbol_rgba_sha256": "81fb0db7a55f45578d484d2db038179684bed9cb0b37793706fec08d93ce6502",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      28,
+      28
+    ]
+  },
+  {
+    "role": "SizeNESW",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      13,
+      13
+    ],
+    "symbol_hotspot": [
+      14,
+      14
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/SizeNESW",
+    "body_hashes": [
+      "9b8507431c28c2e07cd7b57fe5be4dca5af9b815a63aee3c92e12f445d18cb5a",
+      "776854b1d24fe057cc688a5ca327f24443ba477637fbd394cacc503b12c01a9b",
+      "3f51bfc1385cfd49a4ae051d8fe1f1754300f2d3c3366b3fbf9e1a8670e8636d",
+      "776854b1d24fe057cc688a5ca327f24443ba477637fbd394cacc503b12c01a9b",
+      "d868f8adb7f387c44d017cda4aecb9ed2fcbef8ab940553609bd4bad0a42ecd9",
+      "af56e4a4a1d2c00836fa5cf81f65a588af86b5534fe468596a9c4e54834d0078",
+      "d2dbc7371981dd908f690b2427b7ed07731a73ec593c5c6450969f07f8b6a1c7",
+      "af56e4a4a1d2c00836fa5cf81f65a588af86b5534fe468596a9c4e54834d0078"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "e23843e6d718a1793ff740149bcbe94eae74b59227bb4c0614c45005873c4af9",
+      "421b4188859d51dc6f680fe79b439eb01ae926527cc1fa4c5489bf38b072f22a",
+      "e83a5a555ceb4499cdb28272e902d6823c11e8ae38a90ae06df91f455935076c",
+      "421b4188859d51dc6f680fe79b439eb01ae926527cc1fa4c5489bf38b072f22a",
+      "9467a396f185a5a93be98750c8b6b92a1ea0dd1d7aee58b74aea6eb7cddf6546",
+      "7843e427f0e6c08abb2780434f5a6bfc08b2bcb30a76468001d646e2c8af93d0",
+      "d69e067d64940293d28949cb3e3e5d9cf16f9d1fd4ba8202de4c1a409fc01d9a",
+      "7843e427f0e6c08abb2780434f5a6bfc08b2bcb30a76468001d646e2c8af93d0"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNESW-00.png",
+        "frozen_sha256": "e23843e6d718a1793ff740149bcbe94eae74b59227bb4c0614c45005873c4af9",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9b8507431c28c2e07cd7b57fe5be4dca5af9b815a63aee3c92e12f445d18cb5a",
+        "symbol_rgba_sha256": "306db21864ba72aa4807ff29c416dfd807f49d1f9f00e88de4da97947b6afc75",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNESW-01.png",
+        "frozen_sha256": "421b4188859d51dc6f680fe79b439eb01ae926527cc1fa4c5489bf38b072f22a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "776854b1d24fe057cc688a5ca327f24443ba477637fbd394cacc503b12c01a9b",
+        "symbol_rgba_sha256": "306db21864ba72aa4807ff29c416dfd807f49d1f9f00e88de4da97947b6afc75",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNESW-02.png",
+        "frozen_sha256": "e83a5a555ceb4499cdb28272e902d6823c11e8ae38a90ae06df91f455935076c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "3f51bfc1385cfd49a4ae051d8fe1f1754300f2d3c3366b3fbf9e1a8670e8636d",
+        "symbol_rgba_sha256": "306db21864ba72aa4807ff29c416dfd807f49d1f9f00e88de4da97947b6afc75",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNESW-03.png",
+        "frozen_sha256": "421b4188859d51dc6f680fe79b439eb01ae926527cc1fa4c5489bf38b072f22a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "776854b1d24fe057cc688a5ca327f24443ba477637fbd394cacc503b12c01a9b",
+        "symbol_rgba_sha256": "306db21864ba72aa4807ff29c416dfd807f49d1f9f00e88de4da97947b6afc75",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNESW-04.png",
+        "frozen_sha256": "9467a396f185a5a93be98750c8b6b92a1ea0dd1d7aee58b74aea6eb7cddf6546",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d868f8adb7f387c44d017cda4aecb9ed2fcbef8ab940553609bd4bad0a42ecd9",
+        "symbol_rgba_sha256": "306db21864ba72aa4807ff29c416dfd807f49d1f9f00e88de4da97947b6afc75",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNESW-05.png",
+        "frozen_sha256": "7843e427f0e6c08abb2780434f5a6bfc08b2bcb30a76468001d646e2c8af93d0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "af56e4a4a1d2c00836fa5cf81f65a588af86b5534fe468596a9c4e54834d0078",
+        "symbol_rgba_sha256": "306db21864ba72aa4807ff29c416dfd807f49d1f9f00e88de4da97947b6afc75",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNESW-06.png",
+        "frozen_sha256": "d69e067d64940293d28949cb3e3e5d9cf16f9d1fd4ba8202de4c1a409fc01d9a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d2dbc7371981dd908f690b2427b7ed07731a73ec593c5c6450969f07f8b6a1c7",
+        "symbol_rgba_sha256": "306db21864ba72aa4807ff29c416dfd807f49d1f9f00e88de4da97947b6afc75",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeNESW-07.png",
+        "frozen_sha256": "7843e427f0e6c08abb2780434f5a6bfc08b2bcb30a76468001d646e2c8af93d0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "af56e4a4a1d2c00836fa5cf81f65a588af86b5534fe468596a9c4e54834d0078",
+        "symbol_rgba_sha256": "306db21864ba72aa4807ff29c416dfd807f49d1f9f00e88de4da97947b6afc75",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      28,
+      28
+    ]
+  },
+  {
+    "role": "SizeAll",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      13,
+      12
+    ],
+    "symbol_hotspot": [
+      13,
+      12
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/SizeAll",
+    "body_hashes": [
+      "d33a522cd5d99c905c1535e73d61d7a3ed8480a438f3f4ddb64acad2c5748391",
+      "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+      "2e92d3029b552b4609fc5bba31b1c0ae0a71ee800d7fa999c980d9961b76f62c",
+      "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+      "b1ee0109d28a827e5bc3af07116e0eb66d617ff711864109479ddbd6d08e3081",
+      "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa",
+      "e1e136cf94fd71436876f0287cf9ee40850c66daac0bf21e3540673d19157613",
+      "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "8ad7d446e2db4189ab4649dc6be6fdafb550016c9d5342846daae6477efdc661",
+      "b2e9a88cc7f6bb7a8fe6a3fb4532ca568ad0389884cdb2d12bca0fa6c2c8f818",
+      "4d4a6a6412d3ba1c18e1694f482a8edb8c1bb1b0ee5f6de4894ac68a79eeb67c",
+      "b2e9a88cc7f6bb7a8fe6a3fb4532ca568ad0389884cdb2d12bca0fa6c2c8f818",
+      "f189a278ee99f5587030fe238106244bc9fe1bcba21ad26ca00a4501daa7b4a8",
+      "82fc397dae2972483b6150ef8fcaebe22f07966af2f811eb8d6c1ba5cb868051",
+      "2ab9a713e4d9ca48d39aaf1c2b98bc64566b71388349e0866b21739dd130ab22",
+      "82fc397dae2972483b6150ef8fcaebe22f07966af2f811eb8d6c1ba5cb868051"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      0,
+      0
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeAll-00.png",
+        "frozen_sha256": "8ad7d446e2db4189ab4649dc6be6fdafb550016c9d5342846daae6477efdc661",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d33a522cd5d99c905c1535e73d61d7a3ed8480a438f3f4ddb64acad2c5748391",
+        "symbol_rgba_sha256": "44be8256f26e69a4ed9d71d5f7df191c4c706a242095fdd11ea53d850bb3ea98",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeAll-01.png",
+        "frozen_sha256": "b2e9a88cc7f6bb7a8fe6a3fb4532ca568ad0389884cdb2d12bca0fa6c2c8f818",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+        "symbol_rgba_sha256": "44be8256f26e69a4ed9d71d5f7df191c4c706a242095fdd11ea53d850bb3ea98",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeAll-02.png",
+        "frozen_sha256": "4d4a6a6412d3ba1c18e1694f482a8edb8c1bb1b0ee5f6de4894ac68a79eeb67c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "2e92d3029b552b4609fc5bba31b1c0ae0a71ee800d7fa999c980d9961b76f62c",
+        "symbol_rgba_sha256": "44be8256f26e69a4ed9d71d5f7df191c4c706a242095fdd11ea53d850bb3ea98",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeAll-03.png",
+        "frozen_sha256": "b2e9a88cc7f6bb7a8fe6a3fb4532ca568ad0389884cdb2d12bca0fa6c2c8f818",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "19e445a2c9396489a017b24233904eee0eab98871a1659441644ce28c9f8d29e",
+        "symbol_rgba_sha256": "44be8256f26e69a4ed9d71d5f7df191c4c706a242095fdd11ea53d850bb3ea98",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeAll-04.png",
+        "frozen_sha256": "f189a278ee99f5587030fe238106244bc9fe1bcba21ad26ca00a4501daa7b4a8",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b1ee0109d28a827e5bc3af07116e0eb66d617ff711864109479ddbd6d08e3081",
+        "symbol_rgba_sha256": "44be8256f26e69a4ed9d71d5f7df191c4c706a242095fdd11ea53d850bb3ea98",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeAll-05.png",
+        "frozen_sha256": "82fc397dae2972483b6150ef8fcaebe22f07966af2f811eb8d6c1ba5cb868051",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa",
+        "symbol_rgba_sha256": "44be8256f26e69a4ed9d71d5f7df191c4c706a242095fdd11ea53d850bb3ea98",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeAll-06.png",
+        "frozen_sha256": "2ab9a713e4d9ca48d39aaf1c2b98bc64566b71388349e0866b21739dd130ab22",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e1e136cf94fd71436876f0287cf9ee40850c66daac0bf21e3540673d19157613",
+        "symbol_rgba_sha256": "44be8256f26e69a4ed9d71d5f7df191c4c706a242095fdd11ea53d850bb3ea98",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\SizeAll-07.png",
+        "frozen_sha256": "82fc397dae2972483b6150ef8fcaebe22f07966af2f811eb8d6c1ba5cb868051",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c6eb4b098a2f7ab56caf3c319d449bb42d81cee9adea5334ad093de88fe062fa",
+        "symbol_rgba_sha256": "44be8256f26e69a4ed9d71d5f7df191c4c706a242095fdd11ea53d850bb3ea98",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      27,
+      27
+    ]
+  },
+  {
+    "role": "UpArrow",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      11,
+      1
+    ],
+    "symbol_hotspot": [
+      12,
+      2
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/UpArrow",
+    "body_hashes": [
+      "36b6fee7532d646f1908c21dc1736b0c9c0b5cfb79a5b6328c382eb77facbf0e",
+      "fe7ba9a6fd57a4d6133924cf07215fb5a24a92aca831953c0d497b583d4ce3a0",
+      "965647db084bdc4de72878fa5810d095c5d60858cbee5aeccd3c1b4105680d03",
+      "f27aa821c3e375562f3e1aad34be2895f7672cc05a0183daac8733181ddda7d2",
+      "4caaac2dd4aae2a554c23ecbbe8eec595c800b8d225e3f1dbde3ed9b355081eb",
+      "833b7b8644a43fa088cbcc810d278e8205c0021867eed4d132b4588adf8b3e57",
+      "949926719678459307eb3e3edb02d6dd30ba4e99e7cbc7f62ddc5967ca7ce3d3",
+      "7e3ff5d71e258c065d213281b2f0a7316bf3b4f26323423c7eacb385958b3afe"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "7649c3817871717a9fa0985fbbb7ad2726285a6e86e7b3a143e2c268ced4e3c0",
+      "23f69685541c3ca27c95b6b3d1e4d3fe2d89b7d0ea16adc6c57344b434833935",
+      "93f6e542554528417c3c3fda4ca5e2978d955b490c9d938db841e6eca69601d3",
+      "63f1cd04cc64e71dcbe69972a9472de931965539242b849fae4ea78d49d28ef7",
+      "8a622370ba035d63acd96e96ae47c51c597e561abe2266353fd838d798fb0a8b",
+      "776e0ea86727a9655b754f9afbada1a9229a648458d1246d8df6f0c6385e1fad",
+      "3ee968959530998d7264dc479e6000288084bf945bb6444de28f27c211109ebf",
+      "f326c0f96ff418318106f8d56f15a2a6d3ad442b5f4ca356a5984d1c8a8d45dd"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\UpArrow-00.png",
+        "frozen_sha256": "7649c3817871717a9fa0985fbbb7ad2726285a6e86e7b3a143e2c268ced4e3c0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "36b6fee7532d646f1908c21dc1736b0c9c0b5cfb79a5b6328c382eb77facbf0e",
+        "symbol_rgba_sha256": "89db9b2947d7374af44e8aec62bdb5c59a9a0cf00531d77e7dea0e557aa55a16",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\UpArrow-01.png",
+        "frozen_sha256": "23f69685541c3ca27c95b6b3d1e4d3fe2d89b7d0ea16adc6c57344b434833935",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "fe7ba9a6fd57a4d6133924cf07215fb5a24a92aca831953c0d497b583d4ce3a0",
+        "symbol_rgba_sha256": "89db9b2947d7374af44e8aec62bdb5c59a9a0cf00531d77e7dea0e557aa55a16",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\UpArrow-02.png",
+        "frozen_sha256": "93f6e542554528417c3c3fda4ca5e2978d955b490c9d938db841e6eca69601d3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "965647db084bdc4de72878fa5810d095c5d60858cbee5aeccd3c1b4105680d03",
+        "symbol_rgba_sha256": "89db9b2947d7374af44e8aec62bdb5c59a9a0cf00531d77e7dea0e557aa55a16",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\UpArrow-03.png",
+        "frozen_sha256": "63f1cd04cc64e71dcbe69972a9472de931965539242b849fae4ea78d49d28ef7",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f27aa821c3e375562f3e1aad34be2895f7672cc05a0183daac8733181ddda7d2",
+        "symbol_rgba_sha256": "89db9b2947d7374af44e8aec62bdb5c59a9a0cf00531d77e7dea0e557aa55a16",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\UpArrow-04.png",
+        "frozen_sha256": "8a622370ba035d63acd96e96ae47c51c597e561abe2266353fd838d798fb0a8b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4caaac2dd4aae2a554c23ecbbe8eec595c800b8d225e3f1dbde3ed9b355081eb",
+        "symbol_rgba_sha256": "89db9b2947d7374af44e8aec62bdb5c59a9a0cf00531d77e7dea0e557aa55a16",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\UpArrow-05.png",
+        "frozen_sha256": "776e0ea86727a9655b754f9afbada1a9229a648458d1246d8df6f0c6385e1fad",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "833b7b8644a43fa088cbcc810d278e8205c0021867eed4d132b4588adf8b3e57",
+        "symbol_rgba_sha256": "89db9b2947d7374af44e8aec62bdb5c59a9a0cf00531d77e7dea0e557aa55a16",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\UpArrow-06.png",
+        "frozen_sha256": "3ee968959530998d7264dc479e6000288084bf945bb6444de28f27c211109ebf",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "949926719678459307eb3e3edb02d6dd30ba4e99e7cbc7f62ddc5967ca7ce3d3",
+        "symbol_rgba_sha256": "89db9b2947d7374af44e8aec62bdb5c59a9a0cf00531d77e7dea0e557aa55a16",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\UpArrow-07.png",
+        "frozen_sha256": "f326c0f96ff418318106f8d56f15a2a6d3ad442b5f4ca356a5984d1c8a8d45dd",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7e3ff5d71e258c065d213281b2f0a7316bf3b4f26323423c7eacb385958b3afe",
+        "symbol_rgba_sha256": "89db9b2947d7374af44e8aec62bdb5c59a9a0cf00531d77e7dea0e557aa55a16",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      24,
+      28
+    ]
+  },
+  {
+    "role": "Hand",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      8,
+      1
+    ],
+    "symbol_hotspot": [
+      9,
+      2
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/Hand",
+    "body_hashes": [
+      "8776e2f505daa6de2d7f0e2f19b46e17053e8388e13d7276f2ec1aa51d234a0d",
+      "5e570bbea6d8d017f18a4c99b06725a6f1dc609ff20590d5dd70762737e3f76e",
+      "1a4a75b4f2b72e4f5bc6aee921532282b2492eb154dbf047e20a0e26c5d8e4a5",
+      "5e570bbea6d8d017f18a4c99b06725a6f1dc609ff20590d5dd70762737e3f76e",
+      "9b735e3f053293e1e0f734ddf057c28dfaf0e41f5e95be2aae8960702b291378",
+      "ef6d9bb287fa233da858f81eb41cf6571df3220fb17b1095366999e182cde4f4",
+      "87929df9204826be10b5735db59f5f5fd79acae5ca815daf34730633931481d1",
+      "ef6d9bb287fa233da858f81eb41cf6571df3220fb17b1095366999e182cde4f4"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "5885f90144eeb9c34af275c4604bdc7c2fdcdf01cb0d6df8f3f98a247cca28e4",
+      "54833139872c408980a0c3bdf9a2d93ffc119924b5a8e89586b88a77df38d1e3",
+      "d757da53671af614ae3715a6b9a635b91e86705f6a8690aaf43b143b03679880",
+      "54833139872c408980a0c3bdf9a2d93ffc119924b5a8e89586b88a77df38d1e3",
+      "175342c7678f648ab057a17f169bcfaf5c9db9493dd568f30b1889d1bf4d872b",
+      "6cb0b6064da3865d8a615b189f76be85785957f355ec0b6e9565fdafc06c657f",
+      "b3410ecf54ac7b560d1d36ebfe2cf67556052eac56adbcf997225d55306166ae",
+      "6cb0b6064da3865d8a615b189f76be85785957f355ec0b6e9565fdafc06c657f"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Hand-00.png",
+        "frozen_sha256": "5885f90144eeb9c34af275c4604bdc7c2fdcdf01cb0d6df8f3f98a247cca28e4",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8776e2f505daa6de2d7f0e2f19b46e17053e8388e13d7276f2ec1aa51d234a0d",
+        "symbol_rgba_sha256": "50e632d45cde86e84bce809ee0c19a5276d2cb0dfc37a60f741e3aae0922bffb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 6,
+        "separate_layers_max_channel_delta": 85,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Hand-01.png",
+        "frozen_sha256": "54833139872c408980a0c3bdf9a2d93ffc119924b5a8e89586b88a77df38d1e3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5e570bbea6d8d017f18a4c99b06725a6f1dc609ff20590d5dd70762737e3f76e",
+        "symbol_rgba_sha256": "50e632d45cde86e84bce809ee0c19a5276d2cb0dfc37a60f741e3aae0922bffb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 18,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Hand-02.png",
+        "frozen_sha256": "d757da53671af614ae3715a6b9a635b91e86705f6a8690aaf43b143b03679880",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "1a4a75b4f2b72e4f5bc6aee921532282b2492eb154dbf047e20a0e26c5d8e4a5",
+        "symbol_rgba_sha256": "50e632d45cde86e84bce809ee0c19a5276d2cb0dfc37a60f741e3aae0922bffb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 25,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Hand-03.png",
+        "frozen_sha256": "54833139872c408980a0c3bdf9a2d93ffc119924b5a8e89586b88a77df38d1e3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5e570bbea6d8d017f18a4c99b06725a6f1dc609ff20590d5dd70762737e3f76e",
+        "symbol_rgba_sha256": "50e632d45cde86e84bce809ee0c19a5276d2cb0dfc37a60f741e3aae0922bffb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 18,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Hand-04.png",
+        "frozen_sha256": "175342c7678f648ab057a17f169bcfaf5c9db9493dd568f30b1889d1bf4d872b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9b735e3f053293e1e0f734ddf057c28dfaf0e41f5e95be2aae8960702b291378",
+        "symbol_rgba_sha256": "50e632d45cde86e84bce809ee0c19a5276d2cb0dfc37a60f741e3aae0922bffb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 6,
+        "separate_layers_max_channel_delta": 85,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Hand-05.png",
+        "frozen_sha256": "6cb0b6064da3865d8a615b189f76be85785957f355ec0b6e9565fdafc06c657f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ef6d9bb287fa233da858f81eb41cf6571df3220fb17b1095366999e182cde4f4",
+        "symbol_rgba_sha256": "50e632d45cde86e84bce809ee0c19a5276d2cb0dfc37a60f741e3aae0922bffb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 9,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Hand-06.png",
+        "frozen_sha256": "b3410ecf54ac7b560d1d36ebfe2cf67556052eac56adbcf997225d55306166ae",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "87929df9204826be10b5735db59f5f5fd79acae5ca815daf34730633931481d1",
+        "symbol_rgba_sha256": "50e632d45cde86e84bce809ee0c19a5276d2cb0dfc37a60f741e3aae0922bffb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 5,
+        "separate_layers_max_channel_delta": 85,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Hand-07.png",
+        "frozen_sha256": "6cb0b6064da3865d8a615b189f76be85785957f355ec0b6e9565fdafc06c657f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ef6d9bb287fa233da858f81eb41cf6571df3220fb17b1095366999e182cde4f4",
+        "symbol_rgba_sha256": "50e632d45cde86e84bce809ee0c19a5276d2cb0dfc37a60f741e3aae0922bffb",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 9,
+        "separate_layers_max_channel_delta": 128,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      26,
+      28
+    ]
+  },
+  {
+    "role": "Pin",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      10,
+      24
+    ],
+    "symbol_hotspot": [
+      11,
+      25
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/Pin",
+    "body_hashes": [
+      "f01b064cab901d165c9b0fc3b6eb3a8f1c00b82ee7be38e896684f8503997265",
+      "9c708224b2e394669f90901f334e0de0722d39697f644a8ffd4ba1609f1df914",
+      "e98b15bc2e1c4a4f44e56ad28879e61f8fa64733bdf67514c2e86802b11e6066",
+      "9c708224b2e394669f90901f334e0de0722d39697f644a8ffd4ba1609f1df914",
+      "0670ffafdc3bdef98b0a333f47bdae831afc5a93291184f756248ccdd8a942b7",
+      "bf96eaeda3968e248ee8c6bb82659f3a48767adee7ebd44d2f01fc1cbc93accc",
+      "b0eb613666bc25121191f22ad65d50f6f2ea16f2da933258295dac6c2a865304",
+      "bf96eaeda3968e248ee8c6bb82659f3a48767adee7ebd44d2f01fc1cbc93accc"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "637ad304095e55822a80e68b481739cdf65d4beb7b1e112a79ffadde3934709f",
+      "d8a35e1384cb60ce08a82122b75f76fdc599e77d1af432082371672655a487e1",
+      "4e03fb1d0ea73b3166a145dcf6ca862c6190236aef30ea007d99d4fde59b8f82",
+      "d8a35e1384cb60ce08a82122b75f76fdc599e77d1af432082371672655a487e1",
+      "c2f96eb8e9674614a962c1b0d71323420cc27067a6c82d5682c14be743dd10a2",
+      "8c67aef5307a07176ddf64af007562ae1cb3c05c7618a9ad3f393fdd83e044fe",
+      "759f3ba42fec6ebc468ffc35ef42dd4a2c71d895be3eb2766f75c367ab6a8ffa",
+      "8c67aef5307a07176ddf64af007562ae1cb3c05c7618a9ad3f393fdd83e044fe"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Pin-00.png",
+        "frozen_sha256": "637ad304095e55822a80e68b481739cdf65d4beb7b1e112a79ffadde3934709f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f01b064cab901d165c9b0fc3b6eb3a8f1c00b82ee7be38e896684f8503997265",
+        "symbol_rgba_sha256": "678fd77bf1042c536479033a9ba297c0944d1fd80df800f974cd182d0c69d01e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Pin-01.png",
+        "frozen_sha256": "d8a35e1384cb60ce08a82122b75f76fdc599e77d1af432082371672655a487e1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9c708224b2e394669f90901f334e0de0722d39697f644a8ffd4ba1609f1df914",
+        "symbol_rgba_sha256": "678fd77bf1042c536479033a9ba297c0944d1fd80df800f974cd182d0c69d01e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Pin-02.png",
+        "frozen_sha256": "4e03fb1d0ea73b3166a145dcf6ca862c6190236aef30ea007d99d4fde59b8f82",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e98b15bc2e1c4a4f44e56ad28879e61f8fa64733bdf67514c2e86802b11e6066",
+        "symbol_rgba_sha256": "678fd77bf1042c536479033a9ba297c0944d1fd80df800f974cd182d0c69d01e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Pin-03.png",
+        "frozen_sha256": "d8a35e1384cb60ce08a82122b75f76fdc599e77d1af432082371672655a487e1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9c708224b2e394669f90901f334e0de0722d39697f644a8ffd4ba1609f1df914",
+        "symbol_rgba_sha256": "678fd77bf1042c536479033a9ba297c0944d1fd80df800f974cd182d0c69d01e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Pin-04.png",
+        "frozen_sha256": "c2f96eb8e9674614a962c1b0d71323420cc27067a6c82d5682c14be743dd10a2",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "0670ffafdc3bdef98b0a333f47bdae831afc5a93291184f756248ccdd8a942b7",
+        "symbol_rgba_sha256": "678fd77bf1042c536479033a9ba297c0944d1fd80df800f974cd182d0c69d01e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Pin-05.png",
+        "frozen_sha256": "8c67aef5307a07176ddf64af007562ae1cb3c05c7618a9ad3f393fdd83e044fe",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "bf96eaeda3968e248ee8c6bb82659f3a48767adee7ebd44d2f01fc1cbc93accc",
+        "symbol_rgba_sha256": "678fd77bf1042c536479033a9ba297c0944d1fd80df800f974cd182d0c69d01e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Pin-06.png",
+        "frozen_sha256": "759f3ba42fec6ebc468ffc35ef42dd4a2c71d895be3eb2766f75c367ab6a8ffa",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b0eb613666bc25121191f22ad65d50f6f2ea16f2da933258295dac6c2a865304",
+        "symbol_rgba_sha256": "678fd77bf1042c536479033a9ba297c0944d1fd80df800f974cd182d0c69d01e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Pin-07.png",
+        "frozen_sha256": "8c67aef5307a07176ddf64af007562ae1cb3c05c7618a9ad3f393fdd83e044fe",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "bf96eaeda3968e248ee8c6bb82659f3a48767adee7ebd44d2f01fc1cbc93accc",
+        "symbol_rgba_sha256": "678fd77bf1042c536479033a9ba297c0944d1fd80df800f974cd182d0c69d01e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      22,
+      28
+    ]
+  },
+  {
+    "role": "Person",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      12,
+      6
+    ],
+    "symbol_hotspot": [
+      13,
+      7
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      96,
+      96
+    ],
+    "body_directory": "doubao-original-96/Person",
+    "body_hashes": [
+      "8776e2f505daa6de2d7f0e2f19b46e17053e8388e13d7276f2ec1aa51d234a0d",
+      "5e570bbea6d8d017f18a4c99b06725a6f1dc609ff20590d5dd70762737e3f76e",
+      "1a4a75b4f2b72e4f5bc6aee921532282b2492eb154dbf047e20a0e26c5d8e4a5",
+      "5e570bbea6d8d017f18a4c99b06725a6f1dc609ff20590d5dd70762737e3f76e",
+      "9b735e3f053293e1e0f734ddf057c28dfaf0e41f5e95be2aae8960702b291378",
+      "ef6d9bb287fa233da858f81eb41cf6571df3220fb17b1095366999e182cde4f4",
+      "87929df9204826be10b5735db59f5f5fd79acae5ca815daf34730633931481d1",
+      "ef6d9bb287fa233da858f81eb41cf6571df3220fb17b1095366999e182cde4f4"
+    ],
+    "character": "doubao",
+    "edition": "original",
+    "logical_size": 96,
+    "frozen_frame_sha256": [
+      "9584fabaca7ca47c52dd800a43d0edcb3e2230f8d3d8013461532522f5fe80c4",
+      "e3a3d37072cb87089e8654a70c58e45567d61c13860dbe1abe98739aba6452b7",
+      "1f8e8936e3f5c95bc8ddcd8826179d99f83e1100e0bd1dbc02252bf69a7f3f58",
+      "e3a3d37072cb87089e8654a70c58e45567d61c13860dbe1abe98739aba6452b7",
+      "50dcd2d078ebeaf3931b9558f9c2d78a3cf7b77c60c305ea44709d61a09746bb",
+      "0e7157c60c5e35d1ffa28ca95f50d2d409341fa8e4000ace1608bbd630b608ca",
+      "23f8de0b646be756678405f825d1c3836429800d6113afd8bda2dbda1c2445ee",
+      "0e7157c60c5e35d1ffa28ca95f50d2d409341fa8e4000ace1608bbd630b608ca"
+    ],
+    "native_canvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32,
+    "native_symbol_offset": [
+      1,
+      1
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Person-00.png",
+        "frozen_sha256": "9584fabaca7ca47c52dd800a43d0edcb3e2230f8d3d8013461532522f5fe80c4",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8776e2f505daa6de2d7f0e2f19b46e17053e8388e13d7276f2ec1aa51d234a0d",
+        "symbol_rgba_sha256": "4b12af5a82529b21063f86b675894f1712bdb132f7a183b1990eaac787ee1ef5",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 20,
+        "separate_layers_max_channel_delta": 84,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Person-01.png",
+        "frozen_sha256": "e3a3d37072cb87089e8654a70c58e45567d61c13860dbe1abe98739aba6452b7",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5e570bbea6d8d017f18a4c99b06725a6f1dc609ff20590d5dd70762737e3f76e",
+        "symbol_rgba_sha256": "4b12af5a82529b21063f86b675894f1712bdb132f7a183b1990eaac787ee1ef5",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 26,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Person-02.png",
+        "frozen_sha256": "1f8e8936e3f5c95bc8ddcd8826179d99f83e1100e0bd1dbc02252bf69a7f3f58",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "1a4a75b4f2b72e4f5bc6aee921532282b2492eb154dbf047e20a0e26c5d8e4a5",
+        "symbol_rgba_sha256": "4b12af5a82529b21063f86b675894f1712bdb132f7a183b1990eaac787ee1ef5",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 26,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Person-03.png",
+        "frozen_sha256": "e3a3d37072cb87089e8654a70c58e45567d61c13860dbe1abe98739aba6452b7",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5e570bbea6d8d017f18a4c99b06725a6f1dc609ff20590d5dd70762737e3f76e",
+        "symbol_rgba_sha256": "4b12af5a82529b21063f86b675894f1712bdb132f7a183b1990eaac787ee1ef5",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 26,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Person-04.png",
+        "frozen_sha256": "50dcd2d078ebeaf3931b9558f9c2d78a3cf7b77c60c305ea44709d61a09746bb",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "9b735e3f053293e1e0f734ddf057c28dfaf0e41f5e95be2aae8960702b291378",
+        "symbol_rgba_sha256": "4b12af5a82529b21063f86b675894f1712bdb132f7a183b1990eaac787ee1ef5",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 20,
+        "separate_layers_max_channel_delta": 84,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Person-05.png",
+        "frozen_sha256": "0e7157c60c5e35d1ffa28ca95f50d2d409341fa8e4000ace1608bbd630b608ca",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ef6d9bb287fa233da858f81eb41cf6571df3220fb17b1095366999e182cde4f4",
+        "symbol_rgba_sha256": "4b12af5a82529b21063f86b675894f1712bdb132f7a183b1990eaac787ee1ef5",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 19,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Person-06.png",
+        "frozen_sha256": "23f8de0b646be756678405f825d1c3836429800d6113afd8bda2dbda1c2445ee",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "87929df9204826be10b5735db59f5f5fd79acae5ca815daf34730633931481d1",
+        "symbol_rgba_sha256": "4b12af5a82529b21063f86b675894f1712bdb132f7a183b1990eaac787ee1ef5",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 18,
+        "separate_layers_max_channel_delta": 170,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\bytedance-cursors\\source\\frames\\doubao\\96\\Person-07.png",
+        "frozen_sha256": "0e7157c60c5e35d1ffa28ca95f50d2d409341fa8e4000ace1608bbd630b608ca",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ef6d9bb287fa233da858f81eb41cf6571df3220fb17b1095366999e182cde4f4",
+        "symbol_rgba_sha256": "4b12af5a82529b21063f86b675894f1712bdb132f7a183b1990eaac787ee1ef5",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 19,
+        "separate_layers_max_channel_delta": 255,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      26,
+      28
+    ]
+  }
+]
